@@ -3664,13 +3664,6 @@
 2404:6800:4005::19 r20.maa03s08.c.youtube.com
 2404:6800:4005:1::19 r20.maa03s09.c.youtube.com
 
-#youtube美国服务器
-2607:f8b0:400a:b:0:0:0:6	r1---sn-nx57ynez.c.youtube.com
-2607:f8b0:400a:8:0:0:0:6	r1---sn-nx57yne7.c.youtube.com
-2607:f8b0:400a:6:0:0:0:9	r4---sn-nx57yn7r.c.youtube.com
-2607:f8b0:400a:3:0:0:0:a	r5---sn-nx57yn76.c.youtube.com
-2607:f8b0:400a:0:0:0:0:b	r6---sn-nx57ynee.c.youtube.com
-
 #AdWords/AdSense 广告服务
 ###2404:6800:4008:c00::62 www.googlesyndication.com
 2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
