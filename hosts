@@ -4713,7 +4713,7 @@
 #Mozilla
 2620:101:8008:5::2:1 www.mozilla.org
 2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
-2620:101:8008:5::2:2 addons.mozilla.org
+2620:101:8020:5::2:132 addons.mozilla.org
 2620:101:8008:5::2:5 blog.mozilla.org
 2620:101:8008:5::2:9 bugzilla.mozilla.org #bugzilla.zlb.phx.mozilla.net
 2620:101:8008:5::2:6 dnt.mozilla.org #generic.zlb.phx.mozilla.net
@@ -4756,14 +4756,13 @@
 2620:0:861:ed1a::1 species.wikimedia.org
 2620:0:861:ed1a::2:b upload.wikimedia.org #upload-lb.pmtpa.wikimedia.org
 2620:0:861:ed1a::1 www.wikimedia.org
-2620:0:861:ed1a::8 www.mediawiki.org #mediawiki-lb.eqiad.wikimedia.org
+2620:0:861:ed1a::1 www.mediawiki.org #mediawiki-lb.eqiad.wikimedia.org
 #2620:0:862:1:209:3dff:fe10:d5d2 svn.wikimedia.org #Wikimedia Subversion
 2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
-2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org
 2620:0:860:ed1a::1 wikimedia-lb.pmtpa.wikimedia.org
 2620:0:861:ed1a::1 wikimedia-lb.eqiad.wikimedia.org
 2620:0:862:ed1a::1 wikimedia-lb.esams.wikimedia.org
-2620:0:860:ed1a::9 wikimediafoundation.org
+2620:0:861:ed1a::1 wikimediafoundation.org
 2620:0:861:ed1a::1 wikimedia-lb.wikimedia.org #wikimedia-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::1 wikipedia-lb.wikimedia.org #wikipedia-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::2 wiktionary-lb.wikimedia.org #wiktionary-lb.eqiad.wikimedia.org
@@ -5751,7 +5750,7 @@
 2001:778:0:ffff:64:0:b8a9:4f21 a4.twimg.com #orig-10004.twitter.cotcdn.net
 2001:778:0:ffff:64:0:214:b60a a5.twimg.com #a1441.l.akamai.net
 2001:778:0:ffff:64:0:215:6f90 p.twimg.com #e3826.g.akamaiedge.net
-2001:778:0:ffff:64:0:b8a9:4f21 pbs.twimg.com #orig-10014.twitter.cotcdn.net
+2001:778:0:ffff:64:0:c760:3907 pbs.twimg.com #orig-10014.twitter.cotcdn.net
 2001:778:0:ffff:64:0:c73b:95eb r.twimg.com
 2001:778:0:ffff:64:0:36f0:a850 s.twimg.com #d2rdfnizen5apl.cloudfront.net
 2001:778:0:ffff:64:0:b8a9:4f21 si0.twimg.com #orig-10004.twitter.cotcdn.net
@@ -5787,10 +5786,10 @@
 2001:778:0:ffff:64:0:4a78:bc05 images1.wikia.nocookie.net
 2001:778:0:ffff:64:0:4a78:bc05 images2.wikia.nocookie.net
 2001:778:0:ffff:64:0:4a78:bc05 images3.wikia.nocookie.net
-2001:778:0:ffff:64:0:4a78:bc7d doraemon.wikia.com
-2001:778:0:ffff:64:0:4a78:bc7d ja.doraemon.wikia.com
-2001:778:0:ffff:64:0:4a78:bc7d zh-cn.doraemon.wikia.com
-2001:778:0:ffff:64:0:4a78:bc7d zh-tw.doraemon.wikia.com
-2001:778:0:ffff:64:0:4a78:bc7d evchk.wikia.com #香港網絡大典
-2001:778:0:ffff:64:0:4a78:bc7d uncyclopedia.wikia.com
-2001:778:0:ffff:64:0:4a78:bc7d cn.uncyclopedia.wikia.com
+2001:778:0:ffff:64:0:b91f:11c2 doraemon.wikia.com
+2001:778:0:ffff:64:0:b91f:11c2 ja.doraemon.wikia.com
+2001:778:0:ffff:64:0:b91f:11c2 zh-cn.doraemon.wikia.com
+2001:778:0:ffff:64:0:b91f:11c2 zh-tw.doraemon.wikia.com
+2001:778:0:ffff:64:0:b91f:11c2 evchk.wikia.com #香港網絡大典
+2001:778:0:ffff:64:0:b91f:11c2 uncyclopedia.wikia.com
+2001:778:0:ffff:64:0:b91f:11c2 cn.uncyclopedia.wikia.com
