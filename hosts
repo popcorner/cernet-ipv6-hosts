@@ -4597,22 +4597,22 @@
 #2001:418:e801::15:7 api.bitly.com
 
 #Facebook Á³Æ×Íø
-2a03:2880:2110:df07:face:b00c:0:1 facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 www.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 api-read.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 connect.facebook.com #www.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 graph.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 zh-cn.facebook.com #star.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 zh-tw.facebook.com #star.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 check6.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 m.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 apps.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 login.facebook.com #star.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 pixel.facebook.com #star.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 star.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 upload.facebook.com
-2a03:2880:f00d:401:face:b00c:0:1 attachments.facebook.com #?
-2a03:2880:f00d:401:face:b00c:0:1 developers.facebook.com
+2a03:2880:2130:cf05:face:b00c:0:1 facebook.com
+2a03:2880:f022:6:face:b00c:0:2 www.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 api-read.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 connect.facebook.com #www.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 graph.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 zh-cn.facebook.com #star.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 zh-tw.facebook.com #star.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 check6.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 m.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 apps.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 login.facebook.com #star.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 pixel.facebook.com #star.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 star.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 upload.facebook.com
+2a03:2880:f022:6:face:b00c:0:2 attachments.facebook.com #?
+2a03:2880:f022:6:face:b00c:0:2 developers.facebook.com
 #2620::1cfe:face:b00c:0:0:3 333.ctest.facebook.com
 #2620::1cfe:face:b00c:0:0:3 vupload.facebook.com #?
 #2620::1cfe:face:b00c:0:0:3 333.channel.facebook.com #?
@@ -4679,7 +4679,8 @@
 2001:428:4c02::cda8:ed09 vthumb.ak.fbcdn.net#vthumb.facebook.com.edgesuite.net
 2001:428:7000:2::3feb:1ca0 fbcdn-sphotos-a.akamaihd.net#fbcdn-sphotos-a.akamaihd.net.edgesuite.net
 2001:428:4c02::cda8:eccb fbcdn-vthumb-a.akamaihd.net#fbcdn-vthumb-a.akamaihd.net.edgesuite.net
-2a03:2880:f016:208:face:b00c:0:1 scontent-a.xx.fbcdn.net
+2a03:2880:f022:b:face:b00c:0:3 scontent.xx.fbcdn.net
+2a03:2880:f022:b:face:b00c:0:3 scontent-a.xx.fbcdn.net
 
 #Plurk
 2607:f128:47::1:1 plurk.com
@@ -4687,15 +4688,10 @@
 2607:f128:47::1:1 ipv6.plurk.com
 
 #Blizzard Entertainment ±©Ñ©ÓéÀÖ
-2001:1890:e000:c01:dad3:85ff:fed9:ce24 ipv6.blizzard.com
+2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ###ÆäËûIPv6ÍøÕ¾
 ##CN ÖÐ¹ú´óÂ½
-#GuAo.hk ¹È°Â
-2001:470:a803::250 www.guao.hk
-2001:470:a803::250 guao.hk
-2600:3c00::f03c:91ff:fe93:67f2 img.gd
-
 #kenengba.com ¿ÉÄÜ°É
 2001:470:18:5f5::2 www.kenengba.com
 2001:470:18:5f5::2 m.kenengba.com
