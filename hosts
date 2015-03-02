@@ -127,6 +127,7 @@
 2404:6800:4008:c00::65 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
 2404:6800:4008:c00::64 encrypted-tbn.l.google.com
 2404:6800:4008:c00::8b support.google.com #www3.l.google.com
+2404:6800:4008:c01::c0 supl.google.com
 2404:6800:4008:c00::c1 mobile.google.com #mobile.l.google.com
 2404:6800:4008:c00::63 mobile.google.com.hk #www.google.com
 2404:6800:4008:c00::bc mobile-gtalk.l.google.com
@@ -298,6 +299,7 @@
 2404:6800:4008:c00::65 toolbarqueries.clients.google.com #clients.l.google.com
 2404:6800:4008:c00::68 toolbarqueries.l.google.com
 2404:6800:4008:c00::79 chrome.angrybirds.com #ghs.l.google.com
+2607:f8b0:4005:800::1000 www.chrome.com
 
 #Chromium Chromium 项目
 2404:6800:4008:c00::8b chromium.org
@@ -1814,16 +1816,23 @@
 2404:6800:4005:800::101f g0.gstatic.com
 2404:6800:4005:805::100f g1.gstatic.com
 2404:6800:4005:803::101f g2.gstatic.com
-2404:6800:4008:c00::78 g3.gstatic.com
-2404:6800:4008:c00::64 mt0.gstatic.com
-2404:6800:4008:c00::71 mt1.gstatic.com
-2404:6800:4008:c00::64 mt2.gstatic.com
-2404:6800:4008:c00::8a mt3.gstatic.com
-2404:6800:4008:c00::64 mt4.gstatic.com
-2404:6800:4008:c00::64 mt5.gstatic.com
-2404:6800:4008:c00::8b mt6.gstatic.com
-2404:6800:4008:c00::71 mt7.gstatic.com
+2404:6800:4005:805::101f g3.gstatic.com
+2404:6800:4005:807::1009 mt0.gstatic.com
+2404:6800:4005:805::1008 mt1.gstatic.com
+2404:6800:4005:805::1008 mt2.gstatic.com
+2404:6800:4005:805::1008 mt3.gstatic.com
+2404:6800:4005:805::1008 mt4.gstatic.com
+2404:6800:4005:805::1008 mt5.gstatic.com
+2404:6800:4005:805::1008 mt6.gstatic.com
+2404:6800:4005:805::1008 mt7.gstatic.com
+2404:6800:4005:807::1018 accounts.gstatic.com
 2404:6800:4008:c00::a0 www.gstatic.cn
+
+#GoogleZip 数据压缩代理
+2607:f8b0:4001:c09::72 check.googlezip.net
+2404:6800:4008:c05::d3 compress.googlezip.net
+2404:6800:4008:c03::d3 proxy.googlezip.net
+2404:6800:4008:c05::d3 proxy-dev.googlezip.net
 
 #Google APIs 开发接口服务
 2404:6800:4008:c00::8b apis.google.com #plus.l.google.com
@@ -2499,6 +2508,12 @@
 2404:6800:4008:c00::84 lh4.googleusercontent.com
 2404:6800:4008:c00::84 lh5.googleusercontent.com
 2404:6800:4008:c00::84 lh6.googleusercontent.com
+2404:6800:4008:c00::84 ci1.googleusercontent.com
+2404:6800:4008:c00::84 ci2.googleusercontent.com
+2404:6800:4008:c00::84 ci3.googleusercontent.com
+2404:6800:4008:c00::84 ci4.googleusercontent.com
+2404:6800:4008:c00::84 ci5.googleusercontent.com
+2404:6800:4008:c00::84 ci6.googleusercontent.com
 2404:6800:4008:c00::84 music-onebox.googleusercontent.com
 2404:6800:4008:c00::84 oauth.googleusercontent.com
 2404:6800:4008:c00::84 reader.googleusercontent.com
