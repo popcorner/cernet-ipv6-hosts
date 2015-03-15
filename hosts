@@ -705,9 +705,9 @@
 2404:6800:8003::65 tools.l.google.com
 
 #Translate 翻译
-2404:6800:4008:c00::8b translate.google.com #www3.l.google.com
-2404:6800:4008:c00::8b translate.google.com.hk #www3.l.google.com
-2404:6800:4008:c00::8b translate.google.com.tw #www3.l.google.com
+2404:6800:4005:802::1000 translate.google.com #www3.l.google.com
+2404:6800:4005:802::101f translate.google.com.hk #www3.l.google.com
+2404:6800:4005:802::1017 translate.google.com.tw #www3.l.google.com
 2404:6800:4008:c00::a0 translate.google.cn #www.google.cn
 
 #Trends 趋势
@@ -1835,8 +1835,8 @@
 2404:6800:4008:c05::d3 proxy-dev.googlezip.net
 
 #Google APIs 开发接口服务
-2404:6800:4008:c00::8b apis.google.com #plus.l.google.com
-2404:6800:4008:c00::64 chart.apis.google.com #clients.l.google.com
+2404:6800:4005:802::1004 apis.google.com #plus.l.google.com
+2404:6800:4005:802::1008 chart.apis.google.com #clients.l.google.com
 2404:6800:4008:c00::5f www.googleapis.com #googleapis.l.google.com
 2404:6800:4008:c00::5f *.googleapis.com #googleapis.l.google.com
 2404:6800:4008:c00::5f googleapis.l.google.com
@@ -4108,13 +4108,13 @@
 2404:6800:4008:c00::95 *.jp.doubleclick.net #dart.l.doubleclick.net
 
 #Analytics 分析
-2404:6800:4008:c00::71 www.google-analytics.com #www-google-analytics.l.google.com
-2404:6800:4008:c00::61 ssl.google-analytics.com #ssl-google-analytics.l.google.com
-2404:6800:4008:c00::61 *.google-analytics.com
-2404:6800:4008:c00::8a service.urchin.com #www-google-analytics.l.google.com
-2404:6800:4008:c00::64 www-google-analytics.l.google.com
-2404:6800:4008:c00::61 ssl-google-analytics.l.google.com
-2404:6800:4008:c00::63 analytics.google.com #www2.l.google.com
+2404:6800:4005:803::1007 www.google-analytics.com #www-google-analytics.l.google.com
+2404:6800:4005:805::101e ssl.google-analytics.com #ssl-google-analytics.l.google.com
+2404:6800:4005:803::1005 *.google-analytics.com
+2404:6800:4005:803::1009 service.urchin.com #www-google-analytics.l.google.com
+2404:6800:4005:803::1005 www-google-analytics.l.google.com
+2404:6800:4005:807::101e ssl-google-analytics.l.google.com
+2404:6800:4005:802::1007 analytics.google.com #www2.l.google.com
 
 #Android Google 移动操作系统
 2404:6800:4008:c00::64 www.android.com #www3.l.google.com
