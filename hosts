@@ -8,12 +8,12 @@
 
 ##Google.com Google.com
 2404:6800:4005:807::1001 google.com
-2404:6800:4008:c00::54 accounts.google.com #accounts.l.google.com
-2404:6800:4008:c00::5e accounts.google.com.hk #accounts-cctld.l.google.com
-2404:6800:4008:c00::54 accounts.l.google.com
-2404:6800:4008:c00::c1 m.google.com #mobile.l.google.com
-2404:6800:4008:c00::c1 m.google.com.hk #mobile.l.google.com
-2404:6800:4008:c00::c1 mobile.l.google.com
+2404:6800:4008:c01::54 accounts.google.com #accounts.l.google.com
+2404:6800:4008:c01::5e accounts.google.com.hk #accounts-cctld.l.google.com
+2404:6800:4008:c01::54 accounts.l.google.com
+2404:6800:4008:c01::c1 m.google.com #mobile.l.google.com
+2404:6800:4008:c01::c1 m.google.com.hk #mobile.l.google.com
+2404:6800:4008:c01::c1 mobile.l.google.com
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
 2404:6800:4008:c00::64 services.google.com #www3.l.google.com
@@ -98,7 +98,7 @@
 2404:6800:4008:c00::5e www.google.co.za #www-cctld.l.google.com
 
 #Web 网页
-2404:6800:4008:c00::67 www.google.com #www.l.google.com #主/登录域名，GTalk 客户端用户需注释此条，参见 Issue 11
+2404:6800:4005:802::1014 www.google.com #www.l.google.com #主/登录域名，GTalk 客户端用户需注释此条，参见 Issue 11
 2404:6800:4008:c00::66 encrypted.google.com #www3.l.google.com
 2404:6800:4008:c00::93 www.l.google.com
 ###2404:6800:4008:c00::62 www0.l.google.com
@@ -652,7 +652,7 @@
 ###2404:6800:4008:c00::8a plus.google.com.hk # URL 重定向
 2404:6800:4008:c00::64 plus.url.google.com #www3.l.google.com
 #2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
-2404:6800:4008:c00::71 developers.google.com #www3.l.google.com
+2404:6800:4005:802::1002 developers.google.com #www3.l.google.com
 
 #Reader 阅读器
 2404:6800:4008:c00::93 reader.google.com #www2.l.google.com
@@ -671,11 +671,11 @@
 2404:6800:4008:c00::51 sandbox.google.com #sandbox.l.google.com
 
 #Scholar 学术搜索
-2404:6800:4008:c00::63 scholar.google.com
-2404:6800:4008:c00::63 scholar.google.com.hk
-2404:6800:4008:c00::63 scholar.google.com.tw
-2404:6800:4008:c00::63 scholar.l.google.com
-2404:6800:4008:c00::a0 scholar.google.cn
+2404:6800:4008:c01::63 scholar.google.com
+2404:6800:4008:c01::63 scholar.google.com.hk
+2404:6800:4008:c01::63 scholar.google.com.tw
+2404:6800:4008:c01::63 scholar.l.google.com
+2404:6800:4008:c01::a0 scholar.google.cn
 
 #Sites 协作平台
 2404:6800:4008:c00::8b sites.google.com #www3.l.google.com
@@ -1837,15 +1837,15 @@
 #Google APIs 开发接口服务
 2404:6800:4005:802::1004 apis.google.com #plus.l.google.com
 2404:6800:4005:802::1008 chart.apis.google.com #clients.l.google.com
-2404:6800:4008:c00::5f www.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c00::5f *.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c00::5f googleapis.l.google.com
-2404:6800:4008:c00::5f ajax.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c00::5f chart.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c00::5f fonts.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c00::5f maps.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c00::5f redirector-bigcache.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c00::5f translate.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5f www.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5f *.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5f googleapis.l.google.com
+2404:6800:4008:c01::5f ajax.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5f chart.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5f fonts.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5f maps.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5f redirector-bigcache.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5f translate.googleapis.com #googleapis.l.google.com
 ###2404:6800:4008:c00::5f googleapis-ajax.google.com
 ###2404:6800:4008:c00::5f googleapis-ajax.l.google.com
 2404:6800:4008:c00::64 mt0.googleapis.com #mt.l.google.com
@@ -5766,6 +5766,7 @@
 2001:778:0:ffff:64:0:b8a9:4f21 a4.twimg.com #orig-10004.twitter.cotcdn.net
 2001:778:0:ffff:64:0:214:b60a a5.twimg.com #a1441.l.akamai.net
 2001:778:0:ffff:64:0:215:6f90 p.twimg.com #e3826.g.akamaiedge.net
+2001:778:0:ffff:64:0:c760:3907 abs.twimg.com
 2001:778:0:ffff:64:0:c760:3907 pbs.twimg.com #orig-10014.twitter.cotcdn.net
 2001:778:0:ffff:64:0:c73b:95eb r.twimg.com
 2001:778:0:ffff:64:0:36f0:a850 s.twimg.com #d2rdfnizen5apl.cloudfront.net
