@@ -2639,10 +2639,10 @@
 # ÐÂ¼ÓÆÂ 2404:6800:4003:
 # ½ðÄÎ 2404:6800:4007:
 # ÂåÉ¼í¶ 2001:4860:4007:
-2404:6800:4008:c00::be youtube.com
-2404:6800:4008:c00::5d www.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c00::88 au.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c00::88 ca.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:804::1000 youtube.com
+2404:6800:4005:804::1008 www.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:804::1006 au.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:804::1003 ca.youtube.com #youtube-ui.l.google.com
 2404:6800:4008:c00::88 de.youtube.com #youtube-ui.l.google.com
 2404:6800:4008:c00::88 fr.youtube.com #youtube-ui.l.google.com
 2404:6800:4008:c00::5d jp.youtube.com #youtube-ui.l.google.com
@@ -2652,24 +2652,24 @@
 2404:6800:4008:c00::8a ads.youtube.com #www3.l.google.com
 2404:6800:4008:c00::88 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4008:c00::5d youtube-ui.l.google.com
-2404:6800:4008:c00::8b m.youtube.com
-2404:6800:4008:c00::88 youtu.be
+2404:6800:4005:804::1006 m.youtube.com
+2404:6800:4005:804::1003 youtu.be
 2404:6800:4008:c00::85 gdata.youtube.com #www4.l.google.com
 2404:6800:4008:c00::75 stage.gdata.youtube.com #yt-video-upload.l.google.com
 2404:6800:4008:c00::71 s.youtube.com #video-stats.l.google.com
 2404:6800:4008:c00::66 s2.youtube.com #video-stats.l.google.com
-2404:6800:4008:c00::8b accounts.youtube.com #www3.l.google.com
-2404:6800:4008:c00::64 video-stats.l.google.com
-2404:6800:4008:c00::65 img.youtube.com #ytimg.l.google.com
-2404:6800:4008:c00::8b ytimg.l.google.com
-2404:6800:4008:c00::64 i.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c00::8b i1.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c00::8b i2.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c00::8b i3.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c00::8b i4.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c00::8a s.ytimg.com #ytstatic.l.google.com
-2404:6800:4008:c00::64 ytstatic.l.google.com
-2404:6800:4008:c00::67 help.youtube.com #www.l.google.com
+2404:6800:4005:804::1007 accounts.youtube.com #www3.l.google.com
+2404:6800:4005:804::1007 video-stats.l.google.com
+2404:6800:4005:804::1006 img.youtube.com #ytimg.l.google.com
+2404:6800:4005:804::1006 ytimg.l.google.com
+2404:6800:4005:804::1006 i.ytimg.com #ytimg.l.google.com
+2404:6800:4005:804::100e i1.ytimg.com #ytimg.l.google.com
+2404:6800:4005:804::100e i2.ytimg.com #ytimg.l.google.com
+2404:6800:4005:804::100e i3.ytimg.com #ytimg.l.google.com
+2404:6800:4005:804::100e i4.ytimg.com #ytimg.l.google.com
+2404:6800:4005:804::1007 s.ytimg.com #ytstatic.l.google.com
+2404:6800:4005:804::1007 ytstatic.l.google.com
+2404:6800:4005:804::1012 help.youtube.com #www.l.google.com
 2404:6800:4008:c00::74 upload.youtube.com #yt-video-upload.l.google.com
 2404:6800:4008:c00::66 insight.youtube.com #video-analytics.l.google.com
 2404:6800:4008:c00::79 apiblog.youtube.com #ghs.l.google.com
