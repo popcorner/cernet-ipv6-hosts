@@ -64,7 +64,7 @@
 2404:6800:4008:c00::5e www.google.com.au #www-cctld.l.google.com
 2404:6800:4008:c00::5e www.google.be #www-cctld.l.google.com
 2404:6800:4008:c00::5e www.google.com.br #www-cctld.l.google.com
-2404:6800:4008:c00::5e www.google.ca #www-cctld.l.google.com
+2404:6800:4005:808::2003 www.google.ca #www-cctld.l.google.com
 2404:6800:4008:c00::5e www.google.ch #www-cctld.l.google.com
 2404:6800:4008:c01::a0 www.google.cn #中国（已死）
 2404:6800:4008:c00::5e www.google.fi #www-cctld.l.google.com
@@ -406,8 +406,8 @@
 2404:6800:4008:c00::74 upload.docs.google.com #large-uploads.l.google.com
 
 #Download 下载
-2404:6800:4008:c00::5d dl.google.com #dl.l.google.com
-2404:6800:4008:c00::be dl.l.google.com
+2404:6800:4005:80b::200e dl.google.com #dl.l.google.com
+2404:6800:4005:80b::200e dl.l.google.com
 2404:6800:4008:c00::5d dl-ssl.google.com #dl-ssl.l.google.com
 
 #Google Earth 地球
@@ -699,7 +699,7 @@
 2404:6800:4008:c00::bc mobile-gtalk.l.google.com
 
 #Tools 工具
-2404:6800:4008:c00::8b tools.google.com #tools.l.google.com
+2404:6800:4008:c03::8a tools.google.com #tools.l.google.com
 2404:6800:8003::66 toolbar.google.com #tools.l.google.com
 2404:6800:4008:c00::8b toolbar.google.com.hk #tools.l.google.com
 2404:6800:8003::65 tools.l.google.com
@@ -2670,7 +2670,7 @@
 2404:6800:4005:804::1007 s.ytimg.com #ytstatic.l.google.com
 2404:6800:4005:804::1007 ytstatic.l.google.com
 2404:6800:4005:804::1012 help.youtube.com #www.l.google.com
-2404:6800:4008:c00::74 upload.youtube.com #yt-video-upload.l.google.com
+2404:6800:4008:c01::74 upload.youtube.com #yt-video-upload.l.google.com
 2404:6800:4008:c00::66 insight.youtube.com #video-analytics.l.google.com
 2404:6800:4008:c00::79 apiblog.youtube.com #ghs.l.google.com
 ###2404:6800:4008:c00::64 clients1.youtube.com
