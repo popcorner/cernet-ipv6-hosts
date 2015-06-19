@@ -614,8 +614,8 @@ googlemail.l.google.com googlemail.l.google.com
 2404:6800:4008:c00::79 en.blog.orkut.com #ghs.l.google.com
 
 #Pack Èí¼þ¾«Ñ¡
-2404:6800:4008:c00::67 pack.google.com #www2.l.google.com
-2404:6800:4008:c00::66 cache.pack.google.com #redirector.c.youtube.com
+2404:6800:4005:809::2004 pack.google.com #www2.l.google.com
+2404:6800:4005:808::200e cache.pack.google.com #redirector.c.youtube.com
 2404:6800:4005:6::6 cache.l.google.com
 2404:6800:4008:c00::67 pack.google.cn #www2.l.google.com
 
