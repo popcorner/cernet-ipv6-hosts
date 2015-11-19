@@ -100,6 +100,7 @@
 #Web 网页
 2404:6800:4005:80b::2004 www.google.com #www.l.google.com #主/登录域名，GTalk 客户端用户需注释此条，参见 Issue 11
 2404:6800:4008:c07::8a encrypted.google.com #www3.l.google.com
+2404:6800:4008:c07::8a encrypted.google.com.hk #www3.l.google.com
 2404:6800:4005:80b::2004 www.l.google.com
 ###2404:6800:4008:c00::62 www0.l.google.com
 ###2404:6800:4008:c00::62 www1.l.google.com
