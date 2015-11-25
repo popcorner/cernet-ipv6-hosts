@@ -27,6 +27,8 @@
 #2404:6800:4008:c00::63 ipv6.google.co.jp #ipv6.google.com
 #2404:6800:4008:c00::69 ipv6.google.co.jp #ipv6.google.com
 #2404:6800:4008:c00::63 ipv6.l.google.com
+2404:6800:4005:801::200e security.google.com #www3.l.google.com
+2404:6800:4005:801::200e myaccount.google.com #www3.l.google.com
 
 ##Google.com.hk π»∏Ëœ„∏€
 2404:6800:4003:c00::c7 www.google.com.hk #www.l.google.com
@@ -292,7 +294,7 @@
 2404:6800:4008:c00::64 wallet.google.com #www3.l.google.com
 
 #Chrome π»∏Ë‰Ø¿¿∆˜
-2607:f8b0:4007:805::1007 chrome.google.com #www3.l.google.com
+2404:6800:4005:801::200e chrome.google.com #www3.l.google.com
 2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
 2404:6800:4008:c00::66 browsersync.l.google.com
 2404:6800:4002:802::1012 toolbarqueries.google.com #toolbarqueries.l.google.com
