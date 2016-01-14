@@ -1833,16 +1833,16 @@ googlemail.l.google.com googlemail.l.google.com
 #Google APIs 开发接口服务
 2404:6800:4008:c07::71 apis.google.com #plus.l.google.com
 2404:6800:4008:c07::5b chart.apis.google.com #clients.l.google.com
-2404:6800:4008:c01::5f www.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c01::5f *.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c01::5f googleapis.l.google.com
-2404:6800:4008:c01::5f ajax.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c01::5f chart.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c01::5f fonts.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c01::5f maps.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c01::5f redirector-bigcache.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c01::5f translate.googleapis.com #googleapis.l.google.com
-2404:6800:4008:c07::5f content.googleapis.com
+2404:6800:4008:c01::5b www.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5b *.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5b googleapis.l.google.com
+2404:6800:4008:c01::5b ajax.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5b chart.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5b fonts.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5b maps.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5b redirector-bigcache.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c01::5b translate.googleapis.com #googleapis.l.google.com
+2404:6800:4008:c07::5b content.googleapis.com
 ###2404:6800:4008:c00::5f googleapis-ajax.google.com
 ###2404:6800:4008:c00::5f googleapis-ajax.l.google.com
 2404:6800:4008:c00::64 mt0.googleapis.com #mt.l.google.com
