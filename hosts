@@ -4614,22 +4614,22 @@ googlemail.l.google.com googlemail.l.google.com
 #2001:418:e801::15:7 api.bitly.com
 
 #Facebook Á³Æ×Íø
-2a03:2880:2130:cf05:face:b00c:0:1 facebook.com
-2a03:2880:f022:6:face:b00c:0:2 www.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 api-read.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 connect.facebook.com #www.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 graph.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 zh-cn.facebook.com #star.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 zh-tw.facebook.com #star.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 check6.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 m.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 apps.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 login.facebook.com #star.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 pixel.facebook.com #star.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 star.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 upload.facebook.com
-2a03:2880:f022:6:face:b00c:0:2 attachments.facebook.com #?
-2a03:2880:f022:6:face:b00c:0:2 developers.facebook.com
+2a03:2880:11:2f1b:face:b00c:0:25de facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de www.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de api-read.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de connect.facebook.com #www.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de graph.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de zh-cn.facebook.com #star.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de zh-tw.facebook.com #star.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de check6.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de m.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de apps.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de login.facebook.com #star.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de pixel.facebook.com #star.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de star.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de upload.facebook.com
+2a03:2880:f00c:114:face:b00c:0:25de attachments.facebook.com #?
+2a03:2880:f00c:114:face:b00c:0:25de developers.facebook.com
 #2620::1cfe:face:b00c:0:0:3 333.ctest.facebook.com
 #2620::1cfe:face:b00c:0:0:3 vupload.facebook.com #?
 #2620::1cfe:face:b00c:0:0:3 333.channel.facebook.com #?
@@ -4698,6 +4698,7 @@ googlemail.l.google.com googlemail.l.google.com
 2001:428:4c02::cda8:eccb fbcdn-vthumb-a.akamaihd.net#fbcdn-vthumb-a.akamaihd.net.edgesuite.net
 2a03:2880:f022:b:face:b00c:0:3 scontent.xx.fbcdn.net
 2a03:2880:f022:b:face:b00c:0:3 scontent-a.xx.fbcdn.net
+2001:cb0:1205::2a63:80a2 fbstatic-a.akamaihd.net
 
 #Plurk
 2607:f128:47::1:1 plurk.com
