@@ -3168,8 +3168,8 @@ googlemail.l.google.com googlemail.l.google.com
 
 ##AU 澳大利亚
 #APNIC
-2001:dc0:2001:11::211 www.apnic.net
-2001:dc0:2001::14 wq.apnic.net
+2001:dd8:8:701::244 www.apnic.net
+2001:dd8:9:2::101:34 wq.apnic.net
 2001:dc0:2001:11::205 submit.apnic.net #nori.apnic.net
 
 #DE 德国
@@ -3181,13 +3181,13 @@ googlemail.l.google.com googlemail.l.google.com
 2002:c247:6b97::1 static.thepiratebay.org
 
 ##FR 法国
-2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
-2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
+2a01:e0d:1:3:58bf:fa02:c0de:5 videolan.org
+2a01:e0d:1:3:58bf:fa02:c0de:5 www.videolan.org #ganesh.videolan.org
 
 ##JP 日本
 #JAIST 北陸先端科学技術大学院大学
-2001:200:141:feed::feed ftp.jaist.ac.jp
-2001:200:141:feed::feed jaist.dl.sourceforge.net
+2001:df0:2ed:feed::feed ftp.jaist.ac.jp
+2001:df0:2ed:feed::feed jaist.dl.sourceforge.net
 
 ##NL 荷兰
 #Ubuntu Archive
