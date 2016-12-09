@@ -8,12 +8,12 @@
 
 ##Google.com Google.com
 2404:6800:4005:807::1001 google.com
-2404:6800:4008:c01::54 accounts.google.com #accounts.l.google.com
+2404:6800:4008:801::200d accounts.google.com #accounts.l.google.com
 2404:6800:4005:80a::2003 accounts.google.com.hk #accounts-cctld.l.google.com
-2404:6800:4008:c01::54 accounts.l.google.com
-2404:6800:4008:c01::c1 m.google.com #mobile.l.google.com
-2404:6800:4008:c01::c1 m.google.com.hk #mobile.l.google.com
-2404:6800:4008:c01::c1 mobile.l.google.com
+2404:6800:4008:801::200d accounts.l.google.com
+2404:6800:4008:801::200b m.google.com #mobile.l.google.com
+2404:6800:4008:801::200b m.google.com.hk #mobile.l.google.com
+2404:6800:4008:801::200b mobile.l.google.com
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
 2404:6800:4008:802::200e services.google.com #www3.l.google.com
