@@ -2206,21 +2206,34 @@ googlemail.l.google.com googlemail.l.google.com
 2a03:2880:f102:83:face:b00c:0:25de upload.facebook.com
 2a03:2880:f102:83:face:b00c:0:25de attachments.facebook.com #?
 2a03:2880:f102:83:face:b00c:0:25de developers.facebook.com
+2a03:2880:f126:84:face:b00c:0:14c9 l.facebook.com
 #2620::1cfe:face:b00c:0:0:3 333.ctest.facebook.com
 #2620::1cfe:face:b00c:0:0:3 vupload.facebook.com #?
 #2620::1cfe:face:b00c:0:0:3 333.channel.facebook.com #?
 #2620::1cfe:face:b00c:0:0:3 error.12.channel.facebook.com #?
-#如需正常使用页面底部聊天功能，请通过 pac 代理 *.channel.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 1-edge-chat.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 2-edge-chat.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 3-edge-chat.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 4-edge-chat.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 5-edge-chat.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 6-edge-chat.facebook.com
+
 2a03:2880:21:f08:face:b00c:0:12c www.v6.facebook.com
 #2620:0:1cfe:face:b00c::4 login.v6.facebook.com
 2a03:2880:21:f08:face:b00c:0:12c apps.v6.facebook.com
 #2620::1cfe:face:b00c:0:0:3 developers.v6.facebook.com
 2a03:2880:21:f08:face:b00c:0:12c pixel.v6.facebook.com #www.v6.facebook.com
 2a03:2880:21:f08:face:b00c:0:12c m.v6.facebook.com #移动版
-2600:1417:9::6007:3653 external.ak.fbcdn.net
-2600:1417:9::6007:3652 static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
 #2610:d0:face::9 www.lisp6.facebook.com
 #2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+
+#fbcdn
+2a03:2880:f026:19:face:b00c:0:3 scontent.xx.fbcdn.net
+2a03:2880:f026:19:face:b00c:0:3 scontent-a.xx.fbcdn.net
+2a03:2880:f026:19:face:b00c:0:3 static.xx.fbcdn.net
+2a03:2880:f026:19:face:b00c:0:3 staticxx.facebook.com
+2a03:2880:f026:19:face:b00c:0:3 scontent-sit4-1.xx.fbcdn.net
+2a03:2880:f026:19:face:b00c:0:3 connect.facebook.net
 
 #Akamai
 2600:140b:1f:1:a700:0:0:236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
@@ -2234,6 +2247,8 @@ googlemail.l.google.com googlemail.l.google.com
 2600:140e:1::3cfe:833d profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
 2600:140b:12::48f6:be23 fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
 2600:140e:1::3cfe:8337 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3653 external.ak.fbcdn.net
+2600:1417:9::6007:3652 static.ak.fbcdn.net #网站资源（图像、脚本等）新机制尚未部署至 ipv6
 2600:1417:9::b833:f64 photos-a.ak.fbcdn.net
 2600:1417:9::b833:f64 photos-e.ak.fbcdn.net
 2600:1417:9::b833:f64 photos-i.ak.fbcdn.net
@@ -2272,13 +2287,20 @@ googlemail.l.google.com googlemail.l.google.com
 2001:428:4c02::cda8:ed09 vthumb.ak.fbcdn.net#vthumb.facebook.com.edgesuite.net
 2001:428:7000:2::3feb:1ca0 fbcdn-sphotos-a.akamaihd.net#fbcdn-sphotos-a.akamaihd.net.edgesuite.net
 2001:428:4c02::cda8:eccb fbcdn-vthumb-a.akamaihd.net#fbcdn-vthumb-a.akamaihd.net.edgesuite.net
-2a03:2880:f022:b:face:b00c:0:3 scontent.xx.fbcdn.net
-2a03:2880:f022:b:face:b00c:0:3 scontent-a.xx.fbcdn.net
 2600:1417:9::6007:3651 fbstatic-a.akamaihd.net
 2600:1417:9::b833:f6f fb-s-a-a.akamaihd.net
 2600:1406:3a::419e:7aa3 fb-s-b-a.akamaihd.net
 2600:1417:9::b833:f64 fb-s-c-a.akamaihd.net
 
+#whatsapp
+2a03:2880:f226:c6:face:b00c:0:167 www.whatsapp.com
+2a03:2880:f226:c6:face:b00c:0:167 www-cdn.whatsapp.net
+2a03:2880:f226:c6:face:b00c:0:167 web.whatsapp.com
+
+
+#telegram
+2001:67c:4e8:fa60:3:0:811:139 telegram.org
+2001:67c:4e8:fa60:3:0:811:139 core.telegram.org
 
 #Plurk
 2607:f128:47::1:1 plurk.com
