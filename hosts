@@ -2301,6 +2301,10 @@ googlemail.l.google.com googlemail.l.google.com
 #telegram
 2001:67c:4e8:fa60:3:0:811:139 telegram.org
 2001:67c:4e8:fa60:3:0:811:139 core.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 desktop.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 translations.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 instantview.telegram.org
 
 #Plurk
 2607:f128:47::1:1 plurk.com
