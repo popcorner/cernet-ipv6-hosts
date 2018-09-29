@@ -16,6 +16,7 @@
 2404:6800:4008:801::200b mobile.l.google.com
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
+2404:6800:4005:801::200e dns.google.com
 2404:6800:4008:802::200e services.google.com #www3.l.google.com
 2404:6800:4008:c00::71 goto.google.com #www3.l.google.com
 2404:6800:4008:c00::71 jmt0.google.com #www3.l.google.com
@@ -811,6 +812,7 @@ googlemail.l.google.com googlemail.l.google.com
 2404:6800:4005:801::200a redirector-bigcache.googleapis.com #googleapis.l.google.com
 2404:6800:4005:801::200a translate.googleapis.com #googleapis.l.google.com
 2404:6800:4008:801::200a content.googleapis.com
+2404:6800:4005:802::2010 storage.googleapis.com
 ###2404:6800:4008:c00::5f googleapis-ajax.google.com
 ###2404:6800:4008:c00::5f googleapis-ajax.l.google.com
 2404:6800:4008:802::200e mt0.googleapis.com #mt.l.google.com
@@ -2211,12 +2213,13 @@ googlemail.l.google.com googlemail.l.google.com
 #2620::1cfe:face:b00c:0:0:3 vupload.facebook.com #?
 #2620::1cfe:face:b00c:0:0:3 333.channel.facebook.com #?
 #2620::1cfe:face:b00c:0:0:3 error.12.channel.facebook.com #?
-2a03:2880:f026:13:face:b00c:0:2 1-edge-chat.facebook.com
-2a03:2880:f026:13:face:b00c:0:2 2-edge-chat.facebook.com
-2a03:2880:f026:13:face:b00c:0:2 3-edge-chat.facebook.com
-2a03:2880:f026:13:face:b00c:0:2 4-edge-chat.facebook.com
-2a03:2880:f026:13:face:b00c:0:2 5-edge-chat.facebook.com
-2a03:2880:f026:13:face:b00c:0:2 6-edge-chat.facebook.com
+2a03:2880:f004:1:face:b00c:0:1 edge-chat.facebook.com
+2a03:2880:f004:1:face:b00c:0:1 1-edge-chat.facebook.com
+2a03:2880:f004:1:face:b00c:0:1 2-edge-chat.facebook.com
+2a03:2880:f004:1:face:b00c:0:1 3-edge-chat.facebook.com
+2a03:2880:f004:1:face:b00c:0:1 4-edge-chat.facebook.com
+2a03:2880:f004:1:face:b00c:0:1 5-edge-chat.facebook.com
+2a03:2880:f004:1:face:b00c:0:1 6-edge-chat.facebook.com
 
 2a03:2880:21:f08:face:b00c:0:12c www.v6.facebook.com
 #2620:0:1cfe:face:b00c::4 login.v6.facebook.com
@@ -2228,18 +2231,20 @@ googlemail.l.google.com googlemail.l.google.com
 #2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
 
 #fbcdn
-2a03:2880:f026:19:face:b00c:0:3 scontent.xx.fbcdn.net
-2a03:2880:f026:19:face:b00c:0:3 scontent-a.xx.fbcdn.net
-2a03:2880:f026:19:face:b00c:0:3 static.xx.fbcdn.net
-2a03:2880:f026:19:face:b00c:0:3 staticxx.facebook.com
+2a03:2880:f004:8:face:b00c:0:1 scontent.xx.fbcdn.net
+2a03:2880:f004:8:face:b00c:0:1 scontent-a.xx.fbcdn.net
+2a03:2880:f004:8:face:b00c:0:1 static.xx.fbcdn.net
+2a03:2880:f004:8:face:b00c:0:1 staticxx.facebook.com
 2a03:2880:f026:19:face:b00c:0:3 scontent-sit4-1.xx.fbcdn.net
-2a03:2880:f026:19:face:b00c:0:3 connect.facebook.net
+2a03:2880:f004:8:face:b00c:0:1 scontent-mad1-1.xx.fbcdn.net
+2a03:2880:f004:8:face:b00c:0:1 connect.facebook.net
+2a03:2880:f001:b:face:b00c:0:3 external-sea1-1.xx.fbcdn.net
+2a03:2880:f004:8:face:b00c:0:1 external-mad1-1.xx.fbcdn.net
 
 #Akamai
 2600:140b:1f:1:a700:0:0:236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
 2600:140e:3:1:8000::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
 2600:140e:3:1:8100::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
-2600:140b:1f:1:8200:0:0:eed connect.facebook.net #connect.facebook.net.edgekey.net
 2600:140e:1::3cfe:833e creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
 2600:1417:9::b833:f6d external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
 2600:140e:1::3cfe:8335 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
@@ -2313,6 +2318,33 @@ googlemail.l.google.com googlemail.l.google.com
 
 #Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
+
+#tumblr
+2406:2000:a0:800::1004 www.tumblr.com
+2001:4998:f007:1fb::1001 assets.tumblr.com
+2406:2000:a0:800::1003 px.srvcs.tumblr.com
+
+#instagram
+2406:da00:ff00::3436:166b instagram.com
+2406:da00:ff00::3436:166b www.instagram.com
+2406:da00:ff00::3436:166b help.instagram.com
+2a03:2880:f004:1:face:b00c:0:1 blog.instagram.com
+2406:da00:ff00::3436:166b graph.instagram.com
+2a03:2880:f204:c4:face:b00c:0:43fe scontent-mad1-1.cdninstagram.com
+
+#flickr
+2001:4998:18:800::4003 www.flickr.com
+2001:4998:18:800::4003 api.flickr.com
+
+#snapchat
+2001:4860:4802:38::15 snapchat.com
+2404:6800:4005:806::2013 www.snapchat.com
+2001:4860:4802:36::7e app.snapchat.com
+2404:6800:4005:801::2013 store.snapchat.com
+2404:6800:4005:801::2013 story.snapchat.com
+2404:6800:4005:801::2013 lensstudio.snapchat.com
+2404:6800:4005:801::2013 kit.snapchat.com
+2404:6800:4005:801::2013 scan.snapchat.com
 
 ###其他IPv6网站
 ##CN 中国大陆
@@ -3188,13 +3220,13 @@ googlemail.l.google.com googlemail.l.google.com
 
 ##AT 奥地利
 #Tor Project
-2001:858:10f:f::1001 torproject.org
-2001:858:10f:f::1001 www.torproject.org
-2001:4dd0:1234:1::deb deb.torproject.org
-2620:0:6b0:b:1a1a:0:26e5:4808 trac.torproject.org
-2620:0:6b0:b:1a1a:0:26e5:480e cloud.torproject.org
-2620:0:6b0:b:1a1a:0:26e5:480e atlas.torproject.org
-2620:0:6b0:b:1a1a:0:26e5:480b svn.torproject.org
+2a01:4f8:172:1b46:0:abba:5:1 torproject.org
+2a01:4f8:172:1b46:0:abba:5:1 www.torproject.org
+2001:41b8:202:deb:213:21ff:fe20:1426 deb.torproject.org
+2a01:4f8:172:39ca:0:dad3:3:1 trac.torproject.org
+2001:41b8:202:deb:213:21ff:fe20:1426 cloud.torproject.org
+2001:41b8:202:deb:213:21ff:fe20:1426 atlas.torproject.org
+2a01:4f8:172:1b46:0:abba:14:1 svn.torproject.org
 
 ##AU 澳大利亚
 #APNIC
@@ -3203,12 +3235,12 @@ googlemail.l.google.com googlemail.l.google.com
 2001:dc0:2001:11::205 submit.apnic.net #nori.apnic.net
 
 #DE 德国
-2002:c247:6b96::1 thepiratebay.se
-2002:c247:6b96::1 www.thepiratebay.se
-2002:c247:6b97::1 static.thepiratebay.se
-2002:c247:6b96::1 thepiratebay.org
-2002:c247:6b96::1 www.thepiratebay.org
-2002:c247:6b97::1 static.thepiratebay.org
+#2002:c247:6b96::1 thepiratebay.se
+#2002:c247:6b96::1 www.thepiratebay.se
+#2002:c247:6b97::1 static.thepiratebay.se
+#2002:c247:6b96::1 thepiratebay.org
+#2002:c247:6b96::1 www.thepiratebay.org
+#2002:c247:6b97::1 static.thepiratebay.org
 
 ##FR 法国
 2a01:e0d:1:3:58bf:fa02:c0de:5 videolan.org
@@ -3225,7 +3257,7 @@ googlemail.l.google.com googlemail.l.google.com
 2001:7b8:60b:2:213:154:234:36 nl.archive.ubuntu.com #ubuntuarchive.bit.nl #Archive Mirror NL
 
 #PA 巴拿马
-2a02:29b8:1925::2 bitsnoop.com
+2400:cb00:2048:1::681b:d41e bitsnoop.com
 
 #SE 瑞典
 2a00:1a28:1151:0:20c:29ff:feeb:294 torrage.com
