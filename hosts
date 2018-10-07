@@ -38,6 +38,7 @@
 2404:6800:4005:807::1018 id.google.com.hk #id.l.google.com
 2404:6800:4005:801::100f google.com.hk
 2404:6800:4005:805::1011 www.googlechinawebmaster.com
+2a00:1450:400c:c0b::5e id.google.com.hk
 
 ##Google.cn 谷歌中国（启用此地址无法正常使用谷歌音乐）
 2404:6800:4005:80a::2001 music.googleusercontent.cn #googleusercontent.cn
@@ -672,6 +673,10 @@ googlemail.l.google.com googlemail.l.google.com
 2404:6800:4008:c07::8b mt6.gstatic.com
 2404:6800:4008:c07::8b mt7.gstatic.com
 2404:6800:4008:c07::5e accounts.gstatic.com
+2404:6800:4005:801::200e encrypted-tbn0.gstatic.com
+2404:6800:4005:806::200e encrypted-tbn1.gstatic.com
+2404:6800:4005:806::200e encrypted-tbn2.gstatic.com
+2404:6800:4005:806::200e encrypted-tbn3.gstatic.com
 
 #GoogleZip 数据压缩代理
 2404:6800:4008:c05::d3 compress.googlezip.net
@@ -1273,7 +1278,56 @@ googlemail.l.google.com googlemail.l.google.com
 2406:da00:ff00::3436:166b help.instagram.com
 2a03:2880:f004:1:face:b00c:0:1 blog.instagram.com
 2406:da00:ff00::3436:166b graph.instagram.com
+2a03:2880:f21b:c4:face:b00c:0:43fe scontent-ams3-1.cdninstagram.com
+2a03:2880:f206:c4:face:b00c:0:43fe scontent-amt2-1.cdninstagram.com
+2a03:2880:f20a:c4:face:b00c:0:43fe scontent-arn2-1.cdninstagram.com
+2a03:2880:f211:c4:face:b00c:0:43fe scontent-atl3-1.cdninstagram.com
+2a03:2880:f22b:c4:face:b00c:0:43fe scontent-bog1-1.cdninstagram.com
+2a03:2880:f22f:c4:face:b00c:0:43fe scontent-bom1-1.cdninstagram.com
+2a03:2880:f221:c4:face:b00c:0:43fe scontent-bru2-1.cdninstagram.com
+2a03:2880:f218:c2:face:b00c:0:43fe scontent-cai1-1.cdninstagram.com
+2a03:2880:f21f:c4:face:b00c:0:43fe scontent-cdg2-1.cdninstagram.com
+2a03:2880:f230:c4:face:b00c:0:43fe scontent-cdt1-1.cdninstagram.com
+2a03:2880:f232:c4:face:b00c:0:43fe scontent-dub4-1.cdninstagram.com
+2a03:2880:f210:c4:face:b00c:0:43fe scontent-eze1-1.cdninstagram.com
+2a03:2880:f21c:80c4:face:b00c:0:43fe scontent-frt3-1.cdninstagram.com
+2a03:2880:f21c:81c4:face:b00c:0:43fe scontent-frt3-2.cdninstagram.com
+2a03:2880:f22d:c4:face:b00c:0:43fe scontent-frx5-1.cdninstagram.com
+2a03:2880:f233:c4:face:b00c:0:43fe scontent-gig2-1.cdninstagram.com
+2a03:2880:f205:c4:face:b00c:0:43fe scontent-gru2-1.cdninstagram.com
+2a03:2880:f205:2c4:face:b00c:0:43fe scontent-gru2-2.cdninstagram.com
+2a03:2880:f202:c2:face:b00c:0:43fe scontent-hkg3-1.cdninstagram.com
+2a03:2880:f202:1c4:face:b00c:0:43fe scontent-hkg3-2.cdninstagram.com
+2a03:2880:f203:c4:face:b00c:0:43fe scontent-iad3-1.cdninstagram.com
+2a03:2880:f215:c4:face:b00c:0:43fe scontent-icn1-1.cdninstagram.com
+2a03:2880:f224:c4:face:b00c:0:43fe scontent-jnb1-1.cdninstagram.com
+2a03:2880:f22a:c4:face:b00c:0:43fe scontent-kut2-1.cdninstagram.com
+2a03:2880:f20d:c4:face:b00c:0:43fe scontent-lax3-1.cdninstagram.com
+2a03:2880:f20d:1c4:face:b00c:0:43fe scontent-lax3-2.cdninstagram.com
+2a03:2880:f212:c4:face:b00c:0:43fe scontent-lga3-1.cdninstagram.com
+2a03:2880:f21a:c4:face:b00c:0:43fe scontent-lhr3-1.cdninstagram.com
+2a03:2880:f229:c4:face:b00c:0:43fe scontent-lht6-1.cdninstagram.com
 2a03:2880:f204:c4:face:b00c:0:43fe scontent-mad1-1.cdninstagram.com
+2a03:2880:f22c:c4:face:b00c:0:43fe scontent-mia3-1.cdninstagram.com
+2a03:2880:f22c:1c4:face:b00c:0:43fe scontent-mia3-2.cdninstagram.com
+2a03:2880:f209:c4:face:b00c:0:43fe scontent-mrs1-1.cdninstagram.com
+2a03:2880:f208:c4:face:b00c:0:43fe scontent-mxp1-1.cdninstagram.com
+2a03:2880:f20f:c4:face:b00c:0:43fe scontent-nrt1-1.cdninstagram.com
+2a03:2880:f227:c4:face:b00c:0:43fe scontent-ort2-1.cdninstagram.com
+2a03:2880:f227:2c4:face:b00c:0:43fe scontent-ort2-2.cdninstagram.com
+2a03:2880:f223:c4:face:b00c:0:43fe scontent-otp1-1.cdninstagram.com
+2a03:2880:f22e:c4:face:b00c:0:43fe scontent-scl1-1.cdninstagram.com
+2a03:2880:f201:c4:face:b00c:0:43fe scontent-sea1-1.cdninstagram.com
+2a03:2880:f20c:c4:face:b00c:0:43fe scontent-sin6-1.cdninstagram.com
+2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin6-2.cdninstagram.com
+2a03:2880:f226:c4:face:b00c:0:43fe scontent-sit4-1.cdninstagram.com
+2a03:2880:f231:c5:face:b00c:0:43fe scontent-sjc3-1.cdninstagram.com
+2a03:2880:f228:c4:face:b00c:0:43fe scontent-sof1-1.cdninstagram.com
+2a03:2880:f219:80c4:face:b00c:0:43fe scontent-syd2-1.cdninstagram.com
+2a03:2880:f217:c4:face:b00c:0:43fe scontent-tpe1-1.cdninstagram.com
+2a03:2880:f207:c4:face:b00c:0:43fe scontent-vie1-1.cdninstagram.com
+2a03:2880:f216:c4:face:b00c:0:43fe scontent-waw1-1.cdninstagram.com
+2a03:2880:f20e:c4:face:b00c:0:43fe scontent-yyz1-1.cdninstagram.com
 
 #flickr
 2001:4998:18:800::4003 www.flickr.com
