@@ -1385,6 +1385,7 @@
 2606:2800:248:1347:709:24f:182c:618 pbs.twimg.com
 2606:2800:248:5f:1d30:1967:1659:bd2 widgets.twimg.com #orig-10012.twitter.cotcdn.net
 2606:2800:247:22e4:1f0b:18b4:207d:15b0 video.twimg.com
+2606:2800:248:1347:709:24f:182c:618 ton.twimg.com
 
 ###其他IPv6网站
 ##CN 中国大陆
@@ -2325,7 +2326,7 @@
 
 #Twitter
 2001:67c:2b0:db32:0:1:68f4:2a01 twitter.com
-2001:67c:2b0:db32:0:1:c710:9cc8 ads.twitter.com
+2001:67c:2b0:db32:0:1:c710:9c69 analytics.twitter.com
 2001:67c:2b0:db32:0:1:c710:9cc8 assets0.twitter.com #s.twitter.com
 2001:67c:2b0:db32:0:1:c710:9cc8 assets1.twitter.com #s.twitter.com
 2001:67c:2b0:db32:0:1:c710:9cc8 assets2.twitter.com #s.twitter.com
@@ -2345,6 +2346,7 @@
 2001:67c:2b0:db32:0:1:c710:9cc8 static.twitter.com #s.twitter.com
 2001:67c:2b0:db32:0:1:c710:9cd9 stream.twitter.com
 2001:67c:2b0:db32:0:1:c710:9c0c support.twitter.com
+2001:67c:2b0:db32:0:1:c710:9cf1 syndication.twitter.com
 2001:67c:2b0:db32:0:1:c710:9c51 userstream.twitter.com
 2001:67c:2b0:db32:0:1:c710:9c4a upload.twitter.com
 2001:67c:2b0:db32:0:1:68f4:2a81 www.twitter.com #twitter.com
@@ -2353,6 +2355,7 @@
 2001:67c:2b0:db32:0:1:68f4:2a01 www.twttr.com #twitter.com
 2001:67c:2b0:db32:0:1:68f4:2a01 translate.twttr.com #twitter.com
 2001:67c:2b0:db32:0:1:50ef:feb2 twimg0-a.akamaihd.net #a756.l.akamai.net
+2001:67c:2b0:db32:0:1:68f4:2b83 abs-0.twimg.com
 2001:67c:2b0:db32:0:1:68f4:2e47 p.twimg.com #e3826.g.akamaiedge.net
 2001:67c:2b0:db32:0:1:c710:9cec r.twimg.com
 2001:67c:2b0:db32:0:1:d20:3840 s.twimg.com #d2rdfnizen5apl.cloudfront.net
