@@ -30,6 +30,8 @@
 #2404:6800:4008:c00::63 ipv6.l.google.com
 2404:6800:4005:801::200e security.google.com #www3.l.google.com
 2404:6800:4005:801::200e myaccount.google.com #www3.l.google.com
+2404:6800:4005:801::200e aboutme.google.com
+2404:6800:4005:80f::200e takeout.google.com
 2404:6800:4005:801::200e privacy.google.com
 
 ##Google.com.hk 谷歌香港
@@ -371,6 +373,14 @@
 2404:6800:4008:c01::66 writely-china.l.google.com
 2404:6800:4008:c01::74 upload.docs.google.com #large-uploads.l.google.com
 2404:6800:4008:c04::bd cello.client-channel.google.com
+2404:6800:4005:811::200a signaler-pa.clients6.google.com
+
+#Google Cloud
+2404:6800:4005:811::200e cloud.google.com
+2404:6800:4005:80d::200e storage.cloud.google.com
+2404:6800:4005:806::200e console.cloud.google.com
+2404:6800:4005:801::200e ssh.cloud.google.com
+2404:6800:4005:806::200a cloudusersettings-pa.clients6.google.com
 
 #Download 下载
 2404:6800:4008:803::200e dl.google.com #dl.l.google.com
@@ -965,6 +975,7 @@
 2404:6800:4005:80a::2001 39-wave-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 40-wave-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 *-wave-opensocial.googleusercontent.com
+2404:6800:4005:803::2001 drive-thirdparty.googleusercontent.com
 
 ##Google其他服务
 
