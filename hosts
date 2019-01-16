@@ -104,12 +104,12 @@
 2404:6800:4008:803::200e gxc.google.com #www3.l.google.com
 2404:6800:4008:803::200e gxc.google.com.hk #www3.l.google.com
 2404:6800:4008:803::200e investor.google.com #www3.l.google.com
-2404:6800:4008:c05::8a clients1.google.com #clients.l.google.com
-2404:6800:4008:c05::8a clients2.google.com #clients.l.google.com
-2404:6800:4008:c05::8a clients3.google.com #clients.l.google.com
-2404:6800:4008:c05::8a clients4.google.com #clients.l.google.com
-2404:6800:4008:c05::8a clients5.google.com #clients.l.google.com
-2404:6800:4008:c05::8a clients6.google.com #clients.l.google.com
+2404:6800:4005:80c::200e clients1.google.com #clients.l.google.com
+2404:6800:4005:80c::200e clients2.google.com #clients.l.google.com
+2404:6800:4005:80c::200e clients3.google.com #clients.l.google.com
+2404:6800:4005:80c::200e clients4.google.com #clients.l.google.com
+2404:6800:4005:80c::200e clients5.google.com #clients.l.google.com
+2404:6800:4005:80c::200e clients6.google.com #clients.l.google.com
 2404:6800:4005:809::2003 clients1.google.com.hk #clients-cctld.l.google.com
 2404:6800:4005:809::2003 clients1.google.com.tw #clients-cctld.l.google.com
 2404:6800:4008:c00::66 linkhelp.clients.google.com #clients.l.google.com
@@ -624,7 +624,7 @@
 2404:6800:4008:c03::8a tools.l.google.com
 
 #Translate 翻译
-2404:6800:4008:c07::8b translate.google.com #www3.l.google.com
+2404:6800:4005:806::200e translate.google.com #www3.l.google.com
 2404:6800:4005:802::101f translate.google.com.hk #www3.l.google.com
 2404:6800:4005:802::1017 translate.google.com.tw #www3.l.google.com
 2404:6800:4008:c07::76 inputtools.google.com #www4.l.google.com
@@ -691,27 +691,27 @@
 2404:6800:4005:80a::2001 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
 #GStatic Google 静态文件存储
-2404:6800:4008:c07::5e www.gstatic.com
-2404:6800:4008:c07::5e csi.gstatic.com
-2404:6800:4008:c07::5e maps.gstatic.com
-2404:6800:4008:c07::5e ssl.gstatic.com
-2404:6800:4008:c07::68 t0.gstatic.com
-2404:6800:4008:c07::69 t1.gstatic.com
-2404:6800:4008:c07::69 t2.gstatic.com
-2404:6800:4008:c07::69 t3.gstatic.com
-2404:6800:4008:c07::5e g0.gstatic.com
-2404:6800:4008:c07::5e g1.gstatic.com
-2404:6800:4008:c07::5e g2.gstatic.com
-2404:6800:4008:c07::5e g3.gstatic.com
-2404:6800:4008:c07::8b mt0.gstatic.com
-2404:6800:4008:c07::8b mt1.gstatic.com
-2404:6800:4008:c07::8b mt2.gstatic.com
-2404:6800:4008:c07::8b mt3.gstatic.com
-2404:6800:4008:c07::8b mt4.gstatic.com
-2404:6800:4008:c07::8b mt5.gstatic.com
-2404:6800:4008:c07::8b mt6.gstatic.com
-2404:6800:4008:c07::8b mt7.gstatic.com
-2404:6800:4008:c07::5e accounts.gstatic.com
+2404:6800:4005:808::2003 www.gstatic.com
+2404:6800:4005:808::2003 csi.gstatic.com
+2404:6800:4005:808::2003 maps.gstatic.com
+2404:6800:4005:808::2003 ssl.gstatic.com
+2404:6800:4005:808::2004 t0.gstatic.com
+2404:6800:4005:808::2004 t1.gstatic.com
+2404:6800:4005:808::2004 t2.gstatic.com
+2404:6800:4005:808::2004 t3.gstatic.com
+2404:6800:4005:808::2003 g0.gstatic.com
+2404:6800:4005:808::2003 g1.gstatic.com
+2404:6800:4005:808::2003 g2.gstatic.com
+2404:6800:4005:808::2003 g3.gstatic.com
+2404:6800:4005:811::200e mt0.gstatic.com
+2404:6800:4005:811::200e mt1.gstatic.com
+2404:6800:4005:811::200e mt2.gstatic.com
+2404:6800:4005:811::200e mt3.gstatic.com
+2404:6800:4005:811::200e mt4.gstatic.com
+2404:6800:4005:811::200e mt5.gstatic.com
+2404:6800:4005:811::200e mt6.gstatic.com
+2404:6800:4005:811::200e mt7.gstatic.com
+2404:6800:4005:808::2003 accounts.gstatic.com
 2404:6800:4005:80e::2003 play-music.gstatic.com
 2404:6800:4005:801::200e encrypted-tbn0.gstatic.com
 2404:6800:4005:806::200e encrypted-tbn1.gstatic.com
@@ -724,7 +724,7 @@
 2404:6800:4008:c05::d3 proxy-dev.googlezip.net
 
 #Google APIs 开发接口服务
-2404:6800:4008:c07::71 apis.google.com #plus.l.google.com
+2404:6800:4005:802::200e apis.google.com #plus.l.google.com
 2404:6800:4008:803::200e chart.apis.google.com #clients.l.google.com
 2404:6800:4005:801::200a www.googleapis.com #googleapis.l.google.com
 2404:6800:4005:801::200a *.googleapis.com #googleapis.l.google.com
@@ -1001,7 +1001,7 @@
 2404:6800:4008:c03::8a ads.youtube.com #www3.l.google.com
 2404:6800:4008:c03::88 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4008:c03::5d youtube-ui.l.google.com
-2404:6800:4008:c05::8a m.youtube.com
+2404:6800:4005:80c::200e m.youtube.com
 2404:6800:4008:c04::5b youtu.be
 2404:6800:4008:c00::85 gdata.youtube.com #www4.l.google.com
 2404:6800:400a:804::200e s.youtube.com #video-stats.l.google.com
