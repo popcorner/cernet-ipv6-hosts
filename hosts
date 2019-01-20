@@ -37,20 +37,19 @@
 ##Google.com.hk 谷歌香港
 2404:6800:4003:c00::c7 www.google.com.hk #www.l.google.com
 2404:6800:4008:c00::5b picasaweb.google.com.hk #picasaweb.l.google.com
-2404:6800:4005:807::1018 id.google.com.hk #id.l.google.com
+2404:6800:4005:808::2003 id.google.com.hk #id.l.google.com
 2404:6800:4005:801::100f google.com.hk
 2404:6800:4005:805::1011 www.googlechinawebmaster.com
-2404:6800:4005:808::2003 id.google.com.hk
 
 ##Google.cn 谷歌中国（启用此地址无法正常使用谷歌音乐）
 2404:6800:4005:80a::2001 music.googleusercontent.cn #googleusercontent.cn
 
 ##Google.com.tw Google 台湾
-2404:6800:4008:c00::5e www.google.com.tw #www-cctld.l.google.com
+2404:6800:4005:811::2003 www.google.com.tw #www-cctld.l.google.com
 2404:6800:4008:c00::88 picasaweb.google.com.tw #picasaweb.l.google.com
 
 ##Google.co.jp Google 日本
-2404:6800:4008:c00::5e www.google.co.jp #www-cctld.l.google.com
+2404:6800:4005:811::2003 www.google.co.jp #www-cctld.l.google.com
 
 ##其他
 2404:6800:4005:809::2003 www.google.ae #www-cctld.l.google.com
@@ -509,9 +508,9 @@
 2404:6800:4005:80c::200e gg.google.com
 2404:6800:4008:c00::8b gg.google.cn
 2404:6800:4008:c00::78 csi.l.google.com
-2404:6800:4008:c00::5e id.google.com #id.l.google.com
-2404:6800:4008:c00::5e id.google.cn #id.l.google.com
-2404:6800:4008:c00::5e id.l.google.com
+2404:6800:4005:811::2003 id.google.com #id.l.google.com
+2404:6800:4005:811::2003 id.google.cn #id.l.google.com
+2404:6800:4005:811::2003 id.l.google.com
 #2404:6800:4008:c05::a0 ditu.google.cn
 2404:6800:4008:c00::8b mts.google.com #mts.l.google.com
 2404:6800:4008:c00::8b mts0.google.com #mts.l.google.com
@@ -726,16 +725,16 @@
 #Google APIs 开发接口服务
 2404:6800:4005:802::200e apis.google.com #plus.l.google.com
 2404:6800:4008:803::200e chart.apis.google.com #clients.l.google.com
-2404:6800:4005:801::200a www.googleapis.com #googleapis.l.google.com
-2404:6800:4005:801::200a *.googleapis.com #googleapis.l.google.com
-2404:6800:4005:801::200a googleapis.l.google.com
-2404:6800:4005:801::200a ajax.googleapis.com #googleapis.l.google.com
-2404:6800:4005:801::200a chart.googleapis.com #googleapis.l.google.com
-2404:6800:4005:801::200a fonts.googleapis.com #googleapis.l.google.com
-2404:6800:4005:801::200a maps.googleapis.com #googleapis.l.google.com
-2404:6800:4005:801::200a redirector-bigcache.googleapis.com #googleapis.l.google.com
-2404:6800:4005:801::200a translate.googleapis.com #googleapis.l.google.com
-2404:6800:4008:801::200a content.googleapis.com
+2404:6800:4005:80d::200a www.googleapis.com #googleapis.l.google.com
+2404:6800:4005:80d::200a *.googleapis.com #googleapis.l.google.com
+2404:6800:4005:80d::200a googleapis.l.google.com
+2404:6800:4005:80d::200a ajax.googleapis.com #googleapis.l.google.com
+2404:6800:4005:80d::200a chart.googleapis.com #googleapis.l.google.com
+2404:6800:4005:80d::200a fonts.googleapis.com #googleapis.l.google.com
+2404:6800:4005:80d::200a maps.googleapis.com #googleapis.l.google.com
+2404:6800:4005:80d::200a redirector-bigcache.googleapis.com #googleapis.l.google.com
+2404:6800:4005:80d::200a translate.googleapis.com #googleapis.l.google.com
+2404:6800:4005:80f::200a content.googleapis.com
 2404:6800:4005:802::2010 storage.googleapis.com
 ###2404:6800:4008:c00::5f googleapis-ajax.google.com
 ###2404:6800:4008:c00::5f googleapis-ajax.l.google.com
@@ -986,42 +985,42 @@
 # 新加坡 2404:6800:4003:
 # 金奈 2404:6800:4007:
 # 洛杉矶 2001:4860:4007:
-2404:6800:4005:801::200a youtube.com
-2404:6800:4008:c06::66 www.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::8b au.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::8b ca.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::88 de.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::88 fr.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::5d jp.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::be ru.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::5b uk.youtube.com #youtube-ui.l.google.com
-2404:6800:4008:c03::be tw.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e youtube.com
+2404:6800:4005:80f::200e www.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e au.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e ca.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e de.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e fr.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e jp.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e ru.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e uk.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:80f::200e tw.youtube.com #youtube-ui.l.google.com
 2404:6800:4005:80c::200e tv.youtube.com
 2404:6800:4005:80c::200e gaming.youtube.com
 2404:6800:4008:c03::8a ads.youtube.com #www3.l.google.com
 2404:6800:4008:c03::88 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4008:c03::5d youtube-ui.l.google.com
 2404:6800:4005:80c::200e m.youtube.com
-2404:6800:4008:c04::5b youtu.be
+2404:6800:4005:80c::200e youtu.be
 2404:6800:4008:c00::85 gdata.youtube.com #www4.l.google.com
 2404:6800:400a:804::200e s.youtube.com #video-stats.l.google.com
 2404:6800:4008:c02::64 accounts.youtube.com #www3.l.google.com
 2404:6800:4008:c01::8a video-stats.l.google.com
 2404:6800:4008:c01::71 img.youtube.com #ytimg.l.google.com
 2404:6800:4008:c01::71 ytimg.l.google.com
-2404:6800:4008:c03::65 i.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c03::65 i1.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c03::65 i2.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c03::65 i3.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c03::65 i4.ytimg.com #ytimg.l.google.com
-2404:6800:4008:c03::8b s.ytimg.com #ytstatic.l.google.com
-2404:6800:4008:c03::8b ytstatic.l.google.com
-2404:6800:4008:c01::93 help.youtube.com #www.l.google.com
-2404:6800:4008:c01::74 upload.youtube.com #yt-video-upload.l.google.com
+2404:6800:4005:802::2016 i.ytimg.com #ytimg.l.google.com
+2404:6800:4005:802::2016 i1.ytimg.com #ytimg.l.google.com
+2404:6800:4005:802::2016 i2.ytimg.com #ytimg.l.google.com
+2404:6800:4005:802::2016 i3.ytimg.com #ytimg.l.google.com
+2404:6800:4005:802::2016 i4.ytimg.com #ytimg.l.google.com
+2404:6800:4005:80f::200e s.ytimg.com #ytstatic.l.google.com
+2404:6800:4005:80f::200e ytstatic.l.google.com
+2404:6800:4005:811::2004 help.youtube.com #www.l.google.com
+2404:6800:4005:802::200f upload.youtube.com #yt-video-upload.l.google.com
 2404:6800:4008:c00::66 insight.youtube.com #video-analytics.l.google.com
 2404:6800:4008:c00::79 apiblog.youtube.com #ghs.l.google.com
 2404:6800:4005::6 static.cache.l.google.com
-2404:6800:4008:801::2001 yt3.ggpht.com
+2404:6800:4005:80d::2001 yt3.ggpht.com
 
 #AdWords/AdSense 广告服务
 2404:6800:4008:c03::67 buttons.googlesyndication.com #www.google.com#pagead.l.doubleclick.net
