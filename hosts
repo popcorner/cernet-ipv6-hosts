@@ -301,7 +301,7 @@
 
 #Docs ÎÄµµ
 2404:6800:4008:c01::66 docs.google.com
-2404:6800:4005:800::200e drive.google.com
+2404:6800:4005:811::200e drive.google.com
 2404:6800:4005:810::200e docs0.google.com
 2404:6800:4005:810::200e docs1.google.com
 2404:6800:4005:810::200e docs2.google.com
@@ -368,8 +368,10 @@
 ###2404:6800:4008:c00::62 writely-com.l.google.com
 2404:6800:4008:c01::66 writely-china.l.google.com
 2404:6800:4008:c01::74 upload.docs.google.com #large-uploads.l.google.com
-2404:6800:4008:c04::bd cello.client-channel.google.com
+2404:6800:4008:c01::bd cello.client-channel.google.com
 2404:6800:4005:811::200a signaler-pa.clients6.google.com
+2404:6800:4005:807::200a appsitemsuggest-pa.clients6.google.com
+2404:6800:4005:808::200a blobcomments-pa.clients6.google.com
 
 #Google Cloud
 2404:6800:4005:811::200e cloud.google.com
