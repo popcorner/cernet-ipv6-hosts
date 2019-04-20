@@ -45,7 +45,7 @@
 2404:6800:4005:808::2004 www.googlechinawebmaster.com
 
 ##Google.cn 谷歌中国（启用此地址无法正常使用谷歌音乐）
-2404:6800:4005:80a::2001 music.googleusercontent.cn #googleusercontent.cn
+2404:6800:4005:811::2001 music.googleusercontent.cn #googleusercontent.cn
 
 ##Google.com.tw Google 台湾
 2404:6800:4005:811::2003 www.google.com.tw #www-cctld.l.google.com
@@ -189,7 +189,7 @@
 2404:6800:4008:c01::bf www.blogblog.com #blogger.l.google.com
 2404:6800:4008:c01::bf www1.blogblog.com #blogger.l.google.com
 2404:6800:4008:c01::bf www2.blogblog.com #blogger.l.google.com
-2404:6800:4005:80a::2001 img.blogblog.com #blogspot.l.google.com
+2404:6800:4005:811::2001 img.blogblog.com #blogspot.l.google.com
 2404:6800:4008:c01::bf img1.blogblog.com #blogger.l.google.com
 2404:6800:4008:c01::bf img2.blogblog.com #blogger.l.google.com
 2404:6800:4008:c01::79 www.textcube.com #ghs.l.google.com
@@ -206,45 +206,45 @@
 2404:6800:4008:c01::84 bloggertemplatespreview.blogspot.com #blogspot.l.google.com
 
 #Google 官方博客群
-2404:6800:4005:80a::2001 adwordsapi.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 adsense-zhs.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 android-developers.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 apacdeveloper.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 booksearch.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 chrome.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 doubleclickpublishersapi.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 emeadev.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 gearsblog.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 google-code-featured.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 google-entertainment-it.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 google-opensource.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googleajaxsearchapi.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googleappengine.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googleappsdeveloper.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googleblog.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlecheckout.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlecheckoutapi.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlechinablog.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlechromereleases.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlecode.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlecustomsearch.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googleenterprise.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlegeodevelopers.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlemashupeditor.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlemobile.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googleplusplatform.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googleresearch.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googletalk.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlewebmaster-cn.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlewebmastercentral.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlewebtoolkit.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 golangblog.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 gmailblog.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 igoogledeveloper.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 webmproject.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 youtube-global.blogspot.com #blogspot.l.google.com
-2404:6800:4005:80a::2001 *.blogspot.com #blogspot.l.google.com #可以添加你自己的博客地址到这里
-2404:6800:4005:80a::2001 blogspot.l.google.com
+2404:6800:4005:811::2001 adwordsapi.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 adsense-zhs.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 android-developers.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 apacdeveloper.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 booksearch.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 chrome.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 doubleclickpublishersapi.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 emeadev.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 gearsblog.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 google-code-featured.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 google-entertainment-it.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 google-opensource.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googleajaxsearchapi.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googleappengine.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googleappsdeveloper.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googleblog.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlecheckout.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlecheckoutapi.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlechinablog.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlechromereleases.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlecode.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlecustomsearch.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googleenterprise.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlegeodevelopers.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlemashupeditor.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlemobile.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googleplusplatform.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googleresearch.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googletalk.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlewebmaster-cn.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlewebmastercentral.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 googlewebtoolkit.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 golangblog.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 gmailblog.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 igoogledeveloper.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 webmproject.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 youtube-global.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 *.blogspot.com #blogspot.l.google.com #可以添加你自己的博客地址到这里
+2404:6800:4005:811::2001 blogspot.l.google.com
 
 #Books 图书
 2404:6800:4005:801::200e books.google.com #www3.l.google.com
@@ -400,16 +400,16 @@
 2404:6800:4005:809::2004 fusion.google.com #www2.l.google.com
 
 #Gmail 邮箱
-2404:6800:4005:80a::2005 mail.google.com #googlemail.l.google.com
+2404:6800:4005:80e::2005 mail.google.com #googlemail.l.google.com
 2404:6800:4005:808::2007 chatenabled.mail.google.com #b.googlemail.l.google.com #Gmail 中 Gtalk 聊天服务
 2404:6800:4005:808::2007 filetransferenabled.mail.google.com #b.googlemail.l.google.com #可能会造成 GTalk 客户端异常
 2404:6800:4005:808::2007 b.googlemail.l.google.com
 ###2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
 2404:6800:4008:803::200e gmail.google.com #www3.l.google.com
-2404:6800:4005:80a::2005 www.gmail.com #googlemail.l.google.com
+2404:6800:4005:80e::2005 www.gmail.com #googlemail.l.google.com
 2404:6800:4005:80b::2005 gmail.com
-2404:6800:4005:80a::2005 m.gmail.com #googlemail.l.google.com
-2404:6800:4005:80a::2005 m.googlemail.com #googlemail.l.google.com
+2404:6800:4005:80e::2005 m.gmail.com #googlemail.l.google.com
+2404:6800:4005:80e::2005 m.googlemail.com #googlemail.l.google.com
 2404:6800:4008:c03::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
 2404:6800:4008:c03::6d gmail-pop.l.google.com
 2404:6800:4008:c05::10 pop.googlemail.com #googlemail-pop.l.google.com
@@ -426,6 +426,7 @@
 2404:6800:4008:c07::10 imap.googlemail.com #googlemail-imap.l.google.com
 2404:6800:4008:c00::10 googlemail-imap.l.google.com
 2404:6800:4005:80f::200e ogs.google.com #www3.l.google.com
+2404:6800:4005:811::200a chat-pa.clients6.google.com
 
 #Hangouts 环聊
 2404:6800:4005:801::200e hangouts.google.com #www3.l.google.com
@@ -527,7 +528,7 @@
 2404:6800:4005:80c::200e music.google.com #www3.l.google.com
 2404:6800:4008:c00::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2404:6800:8003::74 music-streaming.l.google.com
-2404:6800:4005:80a::2001 music.googleusercontent.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 music.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4008:c00::75 uploadsj.clients.google.com #large-uploads.l.google.com
 2404:6800:4008:c00::74 large-uploads.l.google.com
 
@@ -536,16 +537,16 @@
 2404:6800:4005:803::2003 news.google.com.hk #news-cctld.l.google.com
 2404:6800:4005:801::2003 news.google.com.tw #news-cctld.l.google.com
 2404:6800:4005:802::200e news.l.google.com
-2404:6800:4005:80a::2001 nt0.ggpht.com #photos-ugc.l.google.com
-2404:6800:4005:80a::2001 nt1.ggpht.com #photos-ugc.l.google.com
-2404:6800:4005:80a::2001 nt2.ggpht.com #photos-ugc.l.google.com
-2404:6800:4005:80a::2001 nt3.ggpht.com #photos-ugc.l.google.com
+2404:6800:4005:811::2001 nt0.ggpht.com #photos-ugc.l.google.com
+2404:6800:4005:811::2001 nt1.ggpht.com #photos-ugc.l.google.com
+2404:6800:4005:811::2001 nt2.ggpht.com #photos-ugc.l.google.com
+2404:6800:4005:811::2001 nt3.ggpht.com #photos-ugc.l.google.com
 ###2404:6800:4008:c00::62 nt4.ggpht.com
 ###2404:6800:4008:c00::62 nt5.ggpht.com
 
 #Orkut 网络社区
 2404:6800:4005:80f::2001 www.orkut.gmodules.com
-2404:6800:4005:80a::2001 officialorkutblog.blogspot.com #blogspot.l.google.com
+2404:6800:4005:811::2001 officialorkutblog.blogspot.com #blogspot.l.google.com
 
 #Pack 软件精选
 2404:6800:4005:809::2004 pack.google.com #www2.l.google.com
@@ -555,11 +556,11 @@
 2404:6800:4005:801::200e photos.google.com
 2404:6800:4008:c07::6a picasa.google.com #www2.l.google.com
 2404:6800:4008:c00::be picasaweb.google.com #picasaweb.l.google.com
-2404:6800:4005:80a::2001 lh3.ggpht.com #photos-ugc.l.google.com
-2404:6800:4005:80a::2001 lh4.ggpht.com #photos-ugc.l.google.com
-2404:6800:4005:80a::2001 lh5.ggpht.com #photos-ugc.l.google.com
-2404:6800:4005:80a::2001 lh6.ggpht.com #photos-ugc.l.google.com
-2404:6800:4005:80a::2001 photos-ugc.l.google.com
+2404:6800:4005:811::2001 lh3.ggpht.com #photos-ugc.l.google.com
+2404:6800:4005:811::2001 lh4.ggpht.com #photos-ugc.l.google.com
+2404:6800:4005:811::2001 lh5.ggpht.com #photos-ugc.l.google.com
+2404:6800:4005:811::2001 lh6.ggpht.com #photos-ugc.l.google.com
+2404:6800:4005:811::2001 photos-ugc.l.google.com
 2404:6800:4005:803::200e lh2.google.com #lh2.l.google.com
 2404:6800:4005:80d::200e lh3.google.com #lh2.l.google.com
 2404:6800:4005:801::200e lh4.google.com #lh2.l.google.com
@@ -668,28 +669,28 @@
 
 #iGoogle Modules iGoogle 小工具
 2404:6800:4005:80f::2004 gmodules.com
-2404:6800:4005:80a::2001 www.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 ads.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 p.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 1.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 2.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 3.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 4.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 5.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 6.ig.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 maps.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 img0.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 img1.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 img2.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 img3.gmodules.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 skins.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 www.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 www.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 ads.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 p.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 1.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 2.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 3.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 4.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 5.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 6.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 maps.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 img0.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 img1.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 img2.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 img3.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 skins.gmodules.com #googlehosted.l.googleusercontent.com
 2404:6800:4008:c00::85 friendconnect.gmodules.com #gadgets.l.google.com
 2404:6800:4005:801::200e 0.blogger.gmodules.com #gadgets.l.google.com
 2404:6800:4008:c00::76 gadgets.l.google.com
 2404:6800:4008:c00::69 partnerpage.google.com #www2.l.google.com
-2404:6800:4005:80a::2001 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
 #GStatic Google 静态文件存储
 2404:6800:4005:808::2003 www.gstatic.com
@@ -749,233 +750,233 @@
 2404:6800:4005:806::200a incrementalwebfonts-pa.googleapis.com #googleapis.l.google.com
 
 #Google Hosted 托管服务
-2404:6800:4005:80a::2001 commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 bucket.commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 chromium-browser-symbols.commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 bucket.commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 chromium-browser-symbols.commondatastorage.googleapis.com #googlehosted.l.googleusercontent.com
 2404:6800:4005:80c::2010 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
 2404:6800:4008:c00::80 storage.l.googleusercontent.com
-2404:6800:4005:80a::2001 www.googlehosted.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 googlehosted.l.google.com
+2404:6800:4005:811::2001 www.googlehosted.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 googlehosted.l.google.com
 2404:6800:4008:c00::6a base.googlehosted.com #www2.l.google.com
 2404:6800:4005:801::2004 base0.googlehosted.com #www2.l.google.com
 2404:6800:4008:c00::6a base1.googlehosted.com #www2.l.google.com
 2404:6800:4008:c00::67 base2.googlehosted.com #www2.l.google.com
 2404:6800:4008:c00::67 base3.googlehosted.com #www2.l.google.com
-2404:6800:4005:80a::2001 base4.googlehosted.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 base5.googlehosted.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 base4.googlehosted.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 base5.googlehosted.com #googlehosted.l.googleusercontent.com
 
 #GoogleUserContent 用户自定义的Google服务
-2404:6800:4005:80a::2001 www.googleusercontent.com #googlehosted.l.googleusercontent.com
-2404:6800:4005:80a::2001 androidmarket.googleusercontent.com
-2404:6800:4005:80a::2001 blogger.googleusercontent.com
-2404:6800:4005:80a::2001 www-blogger-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 clients1.googleusercontent.com
-2404:6800:4005:80a::2001 clients2.googleusercontent.com
-2404:6800:4005:80a::2001 doc-00-1k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-00-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-04-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-08-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0c-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0g-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0o-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-2c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-38-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-00-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-04-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-08-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0c-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0g-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0o-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0o-74-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-74-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-00-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-04-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-08-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0c-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0g-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0o-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-00-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-04-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-08-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0c-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0g-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0o-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-8k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-00-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-04-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-08-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0c-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0g-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0o-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-00-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-04-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-08-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0c-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0g-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0o-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-00-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-04-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-08-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0c-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0g-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0o-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 feedback.googleusercontent.com
-2404:6800:4005:80a::2001 mail-attachment.googleusercontent.com
-2404:6800:4005:80a::2001 lh0.googleusercontent.com
-2404:6800:4005:80a::2001 lh1.googleusercontent.com
-2404:6800:4005:80a::2001 lh2.googleusercontent.com
-2404:6800:4005:80a::2001 lh3.googleusercontent.com
-2404:6800:4005:80a::2001 lh4.googleusercontent.com
-2404:6800:4005:80a::2001 lh5.googleusercontent.com
-2404:6800:4005:80a::2001 lh6.googleusercontent.com
-2404:6800:4005:80a::2001 ci1.googleusercontent.com
-2404:6800:4005:80a::2001 ci2.googleusercontent.com
-2404:6800:4005:80a::2001 ci3.googleusercontent.com
-2404:6800:4005:80a::2001 ci4.googleusercontent.com
-2404:6800:4005:80a::2001 ci5.googleusercontent.com
-2404:6800:4005:80a::2001 ci6.googleusercontent.com
-2404:6800:4005:80a::2001 music-onebox.googleusercontent.com
-2404:6800:4005:80a::2001 oauth.googleusercontent.com
-2404:6800:4005:80a::2001 reader.googleusercontent.com
-2404:6800:4005:80a::2001 static.googleusercontent.com
-2404:6800:4005:80a::2001 s2.googleusercontent.com
-2404:6800:4005:80a::2001 themes.googleusercontent.com
-2404:6800:4005:80a::2001 translate.googleusercontent.com
-2404:6800:4005:80a::2001 wave.googleusercontent.com
-2404:6800:4005:80a::2001 webcache.googleusercontent.com
-2404:6800:4005:80a::2001 ytimg.googleusercontent.com
-2404:6800:4005:80a::2001 code-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 spreadsheets-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images-docs-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-gm-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-opensocial-sandbox.googleusercontent.com
-2404:6800:4005:80a::2001 www-fc-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 *-a-fc-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images0-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images1-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images2-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images3-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images4-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images5-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images6-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images7-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images8-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images9-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images*-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 0-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 1-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 2-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 3-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-fusiontables-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-kix-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images-lso-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-onepick-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images-onepick-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-open-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 0-open-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 1-open-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 2-open-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 3-open-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 *-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images-pos-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-trixcopysheet-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 0-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 1-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 2-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 3-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 4-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 5-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 6-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 7-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 8-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 9-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 10-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 11-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 12-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 13-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 14-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 15-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 16-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 17-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 18-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 19-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 20-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 21-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 22-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 23-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 24-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 25-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 26-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 27-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 28-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 29-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 30-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 31-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 32-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 33-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 34-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 35-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 36-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 37-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 38-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 39-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 40-wave-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 *-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www.googleusercontent.com #googlehosted.l.googleusercontent.com
+2404:6800:4005:811::2001 androidmarket.googleusercontent.com
+2404:6800:4005:811::2001 blogger.googleusercontent.com
+2404:6800:4005:811::2001 www-blogger-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 clients1.googleusercontent.com
+2404:6800:4005:811::2001 clients2.googleusercontent.com
+2404:6800:4005:811::2001 doc-00-1k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-00-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-04-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-08-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0c-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0g-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0k-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0o-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0s-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-10-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-14-1o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-10-2c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0k-38-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-00-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-04-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-08-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0c-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0g-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0k-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0o-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0s-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-10-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-14-6c-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0o-74-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-14-74-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-00-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-04-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-08-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0c-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0g-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0k-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0o-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0s-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-10-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-14-7o-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-00-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-04-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-08-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0c-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0g-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0k-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0o-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0s-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-10-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-14-8k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-00-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-04-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-08-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0c-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0g-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0k-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0o-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0s-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-10-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-14-9k-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-00-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-04-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-08-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0c-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0g-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0k-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0o-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-0s-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-10-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-14-as-docs.googleusercontent.com
+2404:6800:4005:811::2001 doc-00-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-04-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-08-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-0c-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-0g-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-0k-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-0o-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-0s-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-10-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 doc-14-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:811::2001 feedback.googleusercontent.com
+2404:6800:4005:811::2001 mail-attachment.googleusercontent.com
+2404:6800:4005:811::2001 lh0.googleusercontent.com
+2404:6800:4005:811::2001 lh1.googleusercontent.com
+2404:6800:4005:811::2001 lh2.googleusercontent.com
+2404:6800:4005:811::2001 lh3.googleusercontent.com
+2404:6800:4005:811::2001 lh4.googleusercontent.com
+2404:6800:4005:811::2001 lh5.googleusercontent.com
+2404:6800:4005:811::2001 lh6.googleusercontent.com
+2404:6800:4005:811::2001 ci1.googleusercontent.com
+2404:6800:4005:811::2001 ci2.googleusercontent.com
+2404:6800:4005:811::2001 ci3.googleusercontent.com
+2404:6800:4005:811::2001 ci4.googleusercontent.com
+2404:6800:4005:811::2001 ci5.googleusercontent.com
+2404:6800:4005:811::2001 ci6.googleusercontent.com
+2404:6800:4005:811::2001 music-onebox.googleusercontent.com
+2404:6800:4005:811::2001 oauth.googleusercontent.com
+2404:6800:4005:811::2001 reader.googleusercontent.com
+2404:6800:4005:811::2001 static.googleusercontent.com
+2404:6800:4005:811::2001 s2.googleusercontent.com
+2404:6800:4005:811::2001 themes.googleusercontent.com
+2404:6800:4005:811::2001 translate.googleusercontent.com
+2404:6800:4005:811::2001 wave.googleusercontent.com
+2404:6800:4005:811::2001 webcache.googleusercontent.com
+2404:6800:4005:811::2001 ytimg.googleusercontent.com
+2404:6800:4005:811::2001 code-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 spreadsheets-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images-docs-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-gm-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-opensocial-sandbox.googleusercontent.com
+2404:6800:4005:811::2001 www-fc-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 *-a-fc-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images0-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images1-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images2-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images3-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images4-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images5-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images6-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images7-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images8-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images9-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images*-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 0-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 1-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 2-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 3-focus-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-fusiontables-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-kix-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images-lso-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-onepick-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images-onepick-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-open-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 0-open-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 1-open-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 2-open-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 3-open-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 *-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 images-pos-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-trixcopysheet-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 www-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 0-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 1-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 2-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 3-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 4-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 5-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 6-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 7-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 8-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 9-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 10-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 11-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 12-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 13-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 14-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 15-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 16-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 17-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 18-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 19-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 20-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 21-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 22-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 23-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 24-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 25-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 26-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 27-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 28-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 29-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 30-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 31-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 32-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 33-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 34-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 35-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 36-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 37-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 38-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 39-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 40-wave-opensocial.googleusercontent.com
+2404:6800:4005:811::2001 *-wave-opensocial.googleusercontent.com
 2404:6800:4005:803::2001 drive-thirdparty.googleusercontent.com
 
 ##Google其他服务
@@ -1027,8 +1028,8 @@
 #AdWords/AdSense 广告服务
 2404:6800:4008:c03::67 buttons.googlesyndication.com #www.google.com#pagead.l.doubleclick.net
 ###2404:6800:4008:c00::62 afd.l.google.com
-2404:6800:4005:80a::2001 tpc.googlesyndication.com #pagead-tpc.l.google.com
-2404:6800:4005:80a::2001 pagead-tpc.l.google.com
+2404:6800:4005:811::2001 tpc.googlesyndication.com #pagead-tpc.l.google.com
+2404:6800:4005:811::2001 pagead-tpc.l.google.com
 2404:6800:4008:c03::70 adwords.google.com
 2404:6800:4008:c03::70 adwords.google.sk #adwords.l.google.com
 2404:6800:4008:803::200e ads.google.com
@@ -1419,7 +1420,7 @@
 2620:0:860:ed1a::1 incubator.wikimedia.org
 2620:0:860:ed1a::1 meta.wikimedia.org
 2620:0:860:ed1a::1 species.wikimedia.org
-2620:0:860:ed1a::1 upload.wikimedia.org #upload-lb.pmtpa.wikimedia.org
+2620:0:862:ed1a::2:b upload.wikimedia.org #upload-lb.pmtpa.wikimedia.org
 2620:0:860:ed1a::1 www.wikimedia.org
 2620:0:860:ed1a::1 www.mediawiki.org #mediawiki-lb.eqiad.wikimedia.org
 2620:0:860:ed1a::1 m.wikimedia.org
@@ -1591,271 +1592,271 @@
 2620:0:860:ed1a::1 zh.wikinews.org
 #WikiPedia 维基百科
 2620:0:860:ed1a::1 wikipedia.org
-2620:0:860:ed1a::1 www.wikipedia.org #wikipedia-lb.wikimedia.org
-2620:0:860:ed1a::1 aa.wikipedia.org
-2620:0:860:ed1a::1 ab.wikipedia.org
-2620:0:860:ed1a::1 ace.wikipedia.org
-2620:0:860:ed1a::1 af.wikipedia.org
-2620:0:860:ed1a::1 ak.wikipedia.org
-2620:0:860:ed1a::1 als.wikipedia.org
-2620:0:860:ed1a::1 am.wikipedia.org
-2620:0:860:ed1a::1 an.wikipedia.org
-2620:0:860:ed1a::1 ang.wikipedia.org
-2620:0:860:ed1a::1 ar.wikipedia.org
-2620:0:860:ed1a::1 arc.wikipedia.org
-2620:0:860:ed1a::1 arz.wikipedia.org
-2620:0:860:ed1a::1 as.wikipedia.org
-2620:0:860:ed1a::1 ast.wikipedia.org
-2620:0:860:ed1a::1 av.wikipedia.org
-2620:0:860:ed1a::1 ay.wikipedia.org
-2620:0:860:ed1a::1 az.wikipedia.org
-2620:0:860:ed1a::1 ba.wikipedia.org
-2620:0:860:ed1a::1 bar.wikipedia.org
-2620:0:860:ed1a::1 bat-smg.wikipedia.org
-2620:0:860:ed1a::1 bcl.wikipedia.org
-2620:0:860:ed1a::1 be.wikipedia.org
-2620:0:860:ed1a::1 be-x-old.wikipedia.org
-2620:0:860:ed1a::1 bg.wikipedia.org
-2620:0:860:ed1a::1 bh.wikipedia.org
-2620:0:860:ed1a::1 bi.wikipedia.org
-2620:0:860:ed1a::1 bm.wikipedia.org
-2620:0:860:ed1a::1 bn.wikipedia.org
-2620:0:860:ed1a::1 bo.wikipedia.org
-2620:0:860:ed1a::1 bpy.wikipedia.org
-2620:0:860:ed1a::1 br.wikipedia.org
-2620:0:860:ed1a::1 bs.wikipedia.org
-2620:0:860:ed1a::1 bug.wikipedia.org
-2620:0:860:ed1a::1 bxr.wikipedia.org
-2620:0:860:ed1a::1 ca.wikipedia.org
-2620:0:860:ed1a::1 cbk-zam.wikipedia.org
-2620:0:860:ed1a::1 cdo.wikipedia.org
-2620:0:860:ed1a::1 ce.wikipedia.org
-2620:0:860:ed1a::1 ceb.wikipedia.org
-2620:0:860:ed1a::1 ch.wikipedia.org
-2620:0:860:ed1a::1 chr.wikipedia.org
-2620:0:860:ed1a::1 chy.wikipedia.org
-2620:0:860:ed1a::1 ckb.wikipedia.org
-2620:0:860:ed1a::1 co.wikipedia.org
-2620:0:860:ed1a::1 cr.wikipedia.org
-2620:0:860:ed1a::1 crh.wikipedia.org
-2620:0:860:ed1a::1 cs.wikipedia.org
-2620:0:860:ed1a::1 csb.wikipedia.org
-2620:0:860:ed1a::1 cu.wikipedia.org
-2620:0:860:ed1a::1 cv.wikipedia.org
-2620:0:860:ed1a::1 cy.wikipedia.org
-2620:0:860:ed1a::1 da.wikipedia.org
-2620:0:860:ed1a::1 de.wikipedia.org
-2620:0:860:ed1a::1 diq.wikipedia.org
-2620:0:860:ed1a::1 dsb.wikipedia.org
-2620:0:860:ed1a::1 dv.wikipedia.org
-2620:0:860:ed1a::1 dz.wikipedia.org
-2620:0:860:ed1a::1 ee.wikipedia.org
-2620:0:860:ed1a::1 el.wikipedia.org
-2620:0:860:ed1a::1 eml.wikipedia.org
-2620:0:860:ed1a::1 en.wikipedia.org
-2620:0:860:ed1a::1 eo.wikipedia.org
-2620:0:860:ed1a::1 es.wikipedia.org
-2620:0:860:ed1a::1 et.wikipedia.org
-2620:0:860:ed1a::1 eu.wikipedia.org
-2620:0:860:ed1a::1 ext.wikipedia.org
-2620:0:860:ed1a::1 fa.wikipedia.org
-2620:0:860:ed1a::1 ff.wikipedia.org
-2620:0:860:ed1a::1 fi.wikipedia.org
-2620:0:860:ed1a::1 fiu-vro.wikipedia.org
-2620:0:860:ed1a::1 fj.wikipedia.org
-2620:0:860:ed1a::1 fo.wikipedia.org
-2620:0:860:ed1a::1 fr.wikipedia.org
-2620:0:860:ed1a::1 frp.wikipedia.org
-2620:0:860:ed1a::1 fur.wikipedia.org
-2620:0:860:ed1a::1 fy.wikipedia.org
-2620:0:860:ed1a::1 ga.wikipedia.org
-2620:0:860:ed1a::1 gan.wikipedia.org
-2620:0:860:ed1a::1 gd.wikipedia.org
-2620:0:860:ed1a::1 gl.wikipedia.org
-2620:0:860:ed1a::1 glk.wikipedia.org
-2620:0:860:ed1a::1 gn.wikipedia.org
-2620:0:860:ed1a::1 got.wikipedia.org
-2620:0:860:ed1a::1 gu.wikipedia.org
-2620:0:860:ed1a::1 gv.wikipedia.org
-2620:0:860:ed1a::1 ha.wikipedia.org
-2620:0:860:ed1a::1 hak.wikipedia.org
-2620:0:860:ed1a::1 haw.wikipedia.org
-2620:0:860:ed1a::1 he.wikipedia.org
-2620:0:860:ed1a::1 hi.wikipedia.org
-2620:0:860:ed1a::1 hif.wikipedia.org
-2620:0:860:ed1a::1 hr.wikipedia.org
-2620:0:860:ed1a::1 hsb.wikipedia.org
-2620:0:860:ed1a::1 ht.wikipedia.org
-2620:0:860:ed1a::1 hu.wikipedia.org
-2620:0:860:ed1a::1 hy.wikipedia.org
-2620:0:860:ed1a::1 ia.wikipedia.org
-2620:0:860:ed1a::1 id.wikipedia.org
-2620:0:860:ed1a::1 ie.wikipedia.org
-2620:0:860:ed1a::1 ig.wikipedia.org
-2620:0:860:ed1a::1 ik.wikipedia.org
-2620:0:860:ed1a::1 ilo.wikipedia.org
-2620:0:860:ed1a::1 io.wikipedia.org
-2620:0:860:ed1a::1 is.wikipedia.org
-2620:0:860:ed1a::1 it.wikipedia.org
-2620:0:860:ed1a::1 iu.wikipedia.org
-2620:0:860:ed1a::1 ja.wikipedia.org
-2620:0:860:ed1a::1 jbo.wikipedia.org
-2620:0:860:ed1a::1 jv.wikipedia.org
-2620:0:860:ed1a::1 ka.wikipedia.org
-2620:0:860:ed1a::1 kaa.wikipedia.org
-2620:0:860:ed1a::1 kab.wikipedia.org
-2620:0:860:ed1a::1 kg.wikipedia.org
-2620:0:860:ed1a::1 ki.wikipedia.org
-2620:0:860:ed1a::1 kk.wikipedia.org
-2620:0:860:ed1a::1 kl.wikipedia.org
-2620:0:860:ed1a::1 km.wikipedia.org
-2620:0:860:ed1a::1 kn.wikipedia.org
-2620:0:860:ed1a::1 ko.wikipedia.org
-2620:0:860:ed1a::1 krc.wikipedia.org
-2620:0:860:ed1a::1 ks.wikipedia.org
-2620:0:860:ed1a::1 ksh.wikipedia.org
-2620:0:860:ed1a::1 ku.wikipedia.org
-2620:0:860:ed1a::1 kv.wikipedia.org
-2620:0:860:ed1a::1 kw.wikipedia.org
-2620:0:860:ed1a::1 ky.wikipedia.org
-2620:0:860:ed1a::1 la.wikipedia.org
-2620:0:860:ed1a::1 lad.wikipedia.org
-2620:0:860:ed1a::1 lb.wikipedia.org
-2620:0:860:ed1a::1 lbe.wikipedia.org
-2620:0:860:ed1a::1 lg.wikipedia.org
-2620:0:860:ed1a::1 li.wikipedia.org
-2620:0:860:ed1a::1 lij.wikipedia.org
-2620:0:860:ed1a::1 lmo.wikipedia.org
-2620:0:860:ed1a::1 ln.wikipedia.org
-2620:0:860:ed1a::1 lo.wikipedia.org
-2620:0:860:ed1a::1 lt.wikipedia.org
-2620:0:860:ed1a::1 lv.wikipedia.org
-2620:0:860:ed1a::1 map-bms.wikipedia.org
-2620:0:860:ed1a::1 mdf.wikipedia.org
-2620:0:860:ed1a::1 mg.wikipedia.org
-2620:0:860:ed1a::1 mh.wikipedia.org
-2620:0:860:ed1a::1 mhr.wikipedia.org
-2620:0:860:ed1a::1 mi.wikipedia.org
-2620:0:860:ed1a::1 mk.wikipedia.org
-2620:0:860:ed1a::1 ml.wikipedia.org
-2620:0:860:ed1a::1 mn.wikipedia.org
-2620:0:860:ed1a::1 mr.wikipedia.org
-2620:0:860:ed1a::1 ms.wikipedia.org
-2620:0:860:ed1a::1 mt.wikipedia.org
-2620:0:860:ed1a::1 mwl.wikipedia.org
-2620:0:860:ed1a::1 my.wikipedia.org
-2620:0:860:ed1a::1 myv.wikipedia.org
-2620:0:860:ed1a::1 mzn.wikipedia.org
-2620:0:860:ed1a::1 na.wikipedia.org
-2620:0:860:ed1a::1 nah.wikipedia.org
-2620:0:860:ed1a::1 nap.wikipedia.org
-2620:0:860:ed1a::1 nds.wikipedia.org
-2620:0:860:ed1a::1 nds-nl.wikipedia.org
-2620:0:860:ed1a::1 ne.wikipedia.org
-2620:0:860:ed1a::1 new.wikipedia.org
-2620:0:860:ed1a::1 ng.wikipedia.org
-2620:0:860:ed1a::1 nl.wikipedia.org
-2620:0:860:ed1a::1 nn.wikipedia.org
-2620:0:860:ed1a::1 no.wikipedia.org
-2620:0:860:ed1a::1 nov.wikipedia.org
-2620:0:860:ed1a::1 nrm.wikipedia.org
-2620:0:860:ed1a::1 nv.wikipedia.org
-2620:0:860:ed1a::1 ny.wikipedia.org
-2620:0:860:ed1a::1 oc.wikipedia.org
-2620:0:860:ed1a::1 om.wikipedia.org
-2620:0:860:ed1a::1 or.wikipedia.org
-2620:0:860:ed1a::1 os.wikipedia.org
-2620:0:860:ed1a::1 pa.wikipedia.org
-2620:0:860:ed1a::1 pag.wikipedia.org
-2620:0:860:ed1a::1 pam.wikipedia.org
-2620:0:860:ed1a::1 pap.wikipedia.org
-2620:0:860:ed1a::1 pcd.wikipedia.org
-2620:0:860:ed1a::1 pdc.wikipedia.org
-2620:0:860:ed1a::1 pi.wikipedia.org
-2620:0:860:ed1a::1 pih.wikipedia.org
-2620:0:860:ed1a::1 pl.wikipedia.org
-2620:0:860:ed1a::1 pms.wikipedia.org
-2620:0:860:ed1a::1 pnb.wikipedia.org
-2620:0:860:ed1a::1 pnt.wikipedia.org
-2620:0:860:ed1a::1 ps.wikipedia.org
-2620:0:860:ed1a::1 pt.wikipedia.org
-2620:0:860:ed1a::1 qu.wikipedia.org
-2620:0:860:ed1a::1 rm.wikipedia.org
-2620:0:860:ed1a::1 rmy.wikipedia.org
-2620:0:860:ed1a::1 rn.wikipedia.org
-2620:0:860:ed1a::1 ro.wikipedia.org
-2620:0:860:ed1a::1 roa-rup.wikipedia.org
-2620:0:860:ed1a::1 roa-tara.wikipedia.org
-2620:0:860:ed1a::1 ru.wikipedia.org
-2620:0:860:ed1a::1 rw.wikipedia.org
-2620:0:860:ed1a::1 sa.wikipedia.org
-2620:0:860:ed1a::1 sah.wikipedia.org
-2620:0:860:ed1a::1 sc.wikipedia.org
-2620:0:860:ed1a::1 scn.wikipedia.org
-2620:0:860:ed1a::1 sco.wikipedia.org
-2620:0:860:ed1a::1 sd.wikipedia.org
-2620:0:860:ed1a::1 se.wikipedia.org
-2620:0:860:ed1a::1 sg.wikipedia.org
-2620:0:860:ed1a::1 sh.wikipedia.org
-2620:0:860:ed1a::1 si.wikipedia.org
-2620:0:860:ed1a::1 simple.wikipedia.org
-2620:0:860:ed1a::1 sk.wikipedia.org
-2620:0:860:ed1a::1 sl.wikipedia.org
-2620:0:860:ed1a::1 sm.wikipedia.org
-2620:0:860:ed1a::1 sn.wikipedia.org
-2620:0:860:ed1a::1 so.wikipedia.org
-2620:0:860:ed1a::1 sq.wikipedia.org
-2620:0:860:ed1a::1 sr.wikipedia.org
-2620:0:860:ed1a::1 srn.wikipedia.org
-2620:0:860:ed1a::1 ss.wikipedia.org
-2620:0:860:ed1a::1 st.wikipedia.org
-2620:0:860:ed1a::1 stq.wikipedia.org
-2620:0:860:ed1a::1 su.wikipedia.org
-2620:0:860:ed1a::1 sv.wikipedia.org
-2620:0:860:ed1a::1 sw.wikipedia.org
-2620:0:860:ed1a::1 szl.wikipedia.org
-2620:0:860:ed1a::1 ta.wikipedia.org
-2620:0:860:ed1a::1 te.wikipedia.org
-2620:0:860:ed1a::1 tet.wikipedia.org
-2620:0:860:ed1a::1 tg.wikipedia.org
-2620:0:860:ed1a::1 th.wikipedia.org
-2620:0:860:ed1a::1 ti.wikipedia.org
-2620:0:860:ed1a::1 tk.wikipedia.org
-2620:0:860:ed1a::1 tl.wikipedia.org
-2620:0:860:ed1a::1 tn.wikipedia.org
-2620:0:860:ed1a::1 to.wikipedia.org
-2620:0:860:ed1a::1 tpi.wikipedia.org
-2620:0:860:ed1a::1 tr.wikipedia.org
-2620:0:860:ed1a::1 ts.wikipedia.org
-2620:0:860:ed1a::1 tt.wikipedia.org
-2620:0:860:ed1a::1 tum.wikipedia.org
-2620:0:860:ed1a::1 tw.wikipedia.org
-2620:0:860:ed1a::1 ty.wikipedia.org
-2620:0:860:ed1a::1 udm.wikipedia.org
-2620:0:860:ed1a::1 ug.wikipedia.org
-2620:0:860:ed1a::1 uk.wikipedia.org
-2620:0:860:ed1a::1 ur.wikipedia.org
-2620:0:860:ed1a::1 uz.wikipedia.org
-2620:0:860:ed1a::1 ve.wikipedia.org
-2620:0:860:ed1a::1 vec.wikipedia.org
-2620:0:860:ed1a::1 vi.wikipedia.org
-2620:0:860:ed1a::1 vls.wikipedia.org
-2620:0:860:ed1a::1 vo.wikipedia.org
-2620:0:860:ed1a::1 wa.wikipedia.org
-2620:0:860:ed1a::1 war.wikipedia.org
-2620:0:860:ed1a::1 wo.wikipedia.org
-2620:0:860:ed1a::1 wuu.wikipedia.org
-2620:0:860:ed1a::1 xal.wikipedia.org
-2620:0:860:ed1a::1 xh.wikipedia.org
-2620:0:860:ed1a::1 yi.wikipedia.org
-2620:0:860:ed1a::1 yo.wikipedia.org
-2620:0:860:ed1a::1 za.wikipedia.org
-2620:0:860:ed1a::1 zea.wikipedia.org
-2620:0:860:ed1a::1 zh.wikipedia.org
-2620:0:860:ed1a::1 zh-classical.wikipedia.org
-2620:0:860:ed1a::1 zh-min-nan.wikipedia.org
-2620:0:860:ed1a::1 zh-yue.wikipedia.org
-2620:0:860:ed1a::1 zu.wikipedia.org
+2620:0:862:ed1a::1 www.wikipedia.org #wikipedia-lb.wikimedia.org
+2620:0:862:ed1a::1 aa.wikipedia.org
+2620:0:862:ed1a::1 ab.wikipedia.org
+2620:0:862:ed1a::1 ace.wikipedia.org
+2620:0:862:ed1a::1 af.wikipedia.org
+2620:0:862:ed1a::1 ak.wikipedia.org
+2620:0:862:ed1a::1 als.wikipedia.org
+2620:0:862:ed1a::1 am.wikipedia.org
+2620:0:862:ed1a::1 an.wikipedia.org
+2620:0:862:ed1a::1 ang.wikipedia.org
+2620:0:862:ed1a::1 ar.wikipedia.org
+2620:0:862:ed1a::1 arc.wikipedia.org
+2620:0:862:ed1a::1 arz.wikipedia.org
+2620:0:862:ed1a::1 as.wikipedia.org
+2620:0:862:ed1a::1 ast.wikipedia.org
+2620:0:862:ed1a::1 av.wikipedia.org
+2620:0:862:ed1a::1 ay.wikipedia.org
+2620:0:862:ed1a::1 az.wikipedia.org
+2620:0:862:ed1a::1 ba.wikipedia.org
+2620:0:862:ed1a::1 bar.wikipedia.org
+2620:0:862:ed1a::1 bat-smg.wikipedia.org
+2620:0:862:ed1a::1 bcl.wikipedia.org
+2620:0:862:ed1a::1 be.wikipedia.org
+2620:0:862:ed1a::1 be-x-old.wikipedia.org
+2620:0:862:ed1a::1 bg.wikipedia.org
+2620:0:862:ed1a::1 bh.wikipedia.org
+2620:0:862:ed1a::1 bi.wikipedia.org
+2620:0:862:ed1a::1 bm.wikipedia.org
+2620:0:862:ed1a::1 bn.wikipedia.org
+2620:0:862:ed1a::1 bo.wikipedia.org
+2620:0:862:ed1a::1 bpy.wikipedia.org
+2620:0:862:ed1a::1 br.wikipedia.org
+2620:0:862:ed1a::1 bs.wikipedia.org
+2620:0:862:ed1a::1 bug.wikipedia.org
+2620:0:862:ed1a::1 bxr.wikipedia.org
+2620:0:862:ed1a::1 ca.wikipedia.org
+2620:0:862:ed1a::1 cbk-zam.wikipedia.org
+2620:0:862:ed1a::1 cdo.wikipedia.org
+2620:0:862:ed1a::1 ce.wikipedia.org
+2620:0:862:ed1a::1 ceb.wikipedia.org
+2620:0:862:ed1a::1 ch.wikipedia.org
+2620:0:862:ed1a::1 chr.wikipedia.org
+2620:0:862:ed1a::1 chy.wikipedia.org
+2620:0:862:ed1a::1 ckb.wikipedia.org
+2620:0:862:ed1a::1 co.wikipedia.org
+2620:0:862:ed1a::1 cr.wikipedia.org
+2620:0:862:ed1a::1 crh.wikipedia.org
+2620:0:862:ed1a::1 cs.wikipedia.org
+2620:0:862:ed1a::1 csb.wikipedia.org
+2620:0:862:ed1a::1 cu.wikipedia.org
+2620:0:862:ed1a::1 cv.wikipedia.org
+2620:0:862:ed1a::1 cy.wikipedia.org
+2620:0:862:ed1a::1 da.wikipedia.org
+2620:0:862:ed1a::1 de.wikipedia.org
+2620:0:862:ed1a::1 diq.wikipedia.org
+2620:0:862:ed1a::1 dsb.wikipedia.org
+2620:0:862:ed1a::1 dv.wikipedia.org
+2620:0:862:ed1a::1 dz.wikipedia.org
+2620:0:862:ed1a::1 ee.wikipedia.org
+2620:0:862:ed1a::1 el.wikipedia.org
+2620:0:862:ed1a::1 eml.wikipedia.org
+2620:0:862:ed1a::1 en.wikipedia.org
+2620:0:862:ed1a::1 eo.wikipedia.org
+2620:0:862:ed1a::1 es.wikipedia.org
+2620:0:862:ed1a::1 et.wikipedia.org
+2620:0:862:ed1a::1 eu.wikipedia.org
+2620:0:862:ed1a::1 ext.wikipedia.org
+2620:0:862:ed1a::1 fa.wikipedia.org
+2620:0:862:ed1a::1 ff.wikipedia.org
+2620:0:862:ed1a::1 fi.wikipedia.org
+2620:0:862:ed1a::1 fiu-vro.wikipedia.org
+2620:0:862:ed1a::1 fj.wikipedia.org
+2620:0:862:ed1a::1 fo.wikipedia.org
+2620:0:862:ed1a::1 fr.wikipedia.org
+2620:0:862:ed1a::1 frp.wikipedia.org
+2620:0:862:ed1a::1 fur.wikipedia.org
+2620:0:862:ed1a::1 fy.wikipedia.org
+2620:0:862:ed1a::1 ga.wikipedia.org
+2620:0:862:ed1a::1 gan.wikipedia.org
+2620:0:862:ed1a::1 gd.wikipedia.org
+2620:0:862:ed1a::1 gl.wikipedia.org
+2620:0:862:ed1a::1 glk.wikipedia.org
+2620:0:862:ed1a::1 gn.wikipedia.org
+2620:0:862:ed1a::1 got.wikipedia.org
+2620:0:862:ed1a::1 gu.wikipedia.org
+2620:0:862:ed1a::1 gv.wikipedia.org
+2620:0:862:ed1a::1 ha.wikipedia.org
+2620:0:862:ed1a::1 hak.wikipedia.org
+2620:0:862:ed1a::1 haw.wikipedia.org
+2620:0:862:ed1a::1 he.wikipedia.org
+2620:0:862:ed1a::1 hi.wikipedia.org
+2620:0:862:ed1a::1 hif.wikipedia.org
+2620:0:862:ed1a::1 hr.wikipedia.org
+2620:0:862:ed1a::1 hsb.wikipedia.org
+2620:0:862:ed1a::1 ht.wikipedia.org
+2620:0:862:ed1a::1 hu.wikipedia.org
+2620:0:862:ed1a::1 hy.wikipedia.org
+2620:0:862:ed1a::1 ia.wikipedia.org
+2620:0:862:ed1a::1 id.wikipedia.org
+2620:0:862:ed1a::1 ie.wikipedia.org
+2620:0:862:ed1a::1 ig.wikipedia.org
+2620:0:862:ed1a::1 ik.wikipedia.org
+2620:0:862:ed1a::1 ilo.wikipedia.org
+2620:0:862:ed1a::1 io.wikipedia.org
+2620:0:862:ed1a::1 is.wikipedia.org
+2620:0:862:ed1a::1 it.wikipedia.org
+2620:0:862:ed1a::1 iu.wikipedia.org
+2620:0:862:ed1a::1 ja.wikipedia.org
+2620:0:862:ed1a::1 jbo.wikipedia.org
+2620:0:862:ed1a::1 jv.wikipedia.org
+2620:0:862:ed1a::1 ka.wikipedia.org
+2620:0:862:ed1a::1 kaa.wikipedia.org
+2620:0:862:ed1a::1 kab.wikipedia.org
+2620:0:862:ed1a::1 kg.wikipedia.org
+2620:0:862:ed1a::1 ki.wikipedia.org
+2620:0:862:ed1a::1 kk.wikipedia.org
+2620:0:862:ed1a::1 kl.wikipedia.org
+2620:0:862:ed1a::1 km.wikipedia.org
+2620:0:862:ed1a::1 kn.wikipedia.org
+2620:0:862:ed1a::1 ko.wikipedia.org
+2620:0:862:ed1a::1 krc.wikipedia.org
+2620:0:862:ed1a::1 ks.wikipedia.org
+2620:0:862:ed1a::1 ksh.wikipedia.org
+2620:0:862:ed1a::1 ku.wikipedia.org
+2620:0:862:ed1a::1 kv.wikipedia.org
+2620:0:862:ed1a::1 kw.wikipedia.org
+2620:0:862:ed1a::1 ky.wikipedia.org
+2620:0:862:ed1a::1 la.wikipedia.org
+2620:0:862:ed1a::1 lad.wikipedia.org
+2620:0:862:ed1a::1 lb.wikipedia.org
+2620:0:862:ed1a::1 lbe.wikipedia.org
+2620:0:862:ed1a::1 lg.wikipedia.org
+2620:0:862:ed1a::1 li.wikipedia.org
+2620:0:862:ed1a::1 lij.wikipedia.org
+2620:0:862:ed1a::1 lmo.wikipedia.org
+2620:0:862:ed1a::1 ln.wikipedia.org
+2620:0:862:ed1a::1 lo.wikipedia.org
+2620:0:862:ed1a::1 lt.wikipedia.org
+2620:0:862:ed1a::1 lv.wikipedia.org
+2620:0:862:ed1a::1 map-bms.wikipedia.org
+2620:0:862:ed1a::1 mdf.wikipedia.org
+2620:0:862:ed1a::1 mg.wikipedia.org
+2620:0:862:ed1a::1 mh.wikipedia.org
+2620:0:862:ed1a::1 mhr.wikipedia.org
+2620:0:862:ed1a::1 mi.wikipedia.org
+2620:0:862:ed1a::1 mk.wikipedia.org
+2620:0:862:ed1a::1 ml.wikipedia.org
+2620:0:862:ed1a::1 mn.wikipedia.org
+2620:0:862:ed1a::1 mr.wikipedia.org
+2620:0:862:ed1a::1 ms.wikipedia.org
+2620:0:862:ed1a::1 mt.wikipedia.org
+2620:0:862:ed1a::1 mwl.wikipedia.org
+2620:0:862:ed1a::1 my.wikipedia.org
+2620:0:862:ed1a::1 myv.wikipedia.org
+2620:0:862:ed1a::1 mzn.wikipedia.org
+2620:0:862:ed1a::1 na.wikipedia.org
+2620:0:862:ed1a::1 nah.wikipedia.org
+2620:0:862:ed1a::1 nap.wikipedia.org
+2620:0:862:ed1a::1 nds.wikipedia.org
+2620:0:862:ed1a::1 nds-nl.wikipedia.org
+2620:0:862:ed1a::1 ne.wikipedia.org
+2620:0:862:ed1a::1 new.wikipedia.org
+2620:0:862:ed1a::1 ng.wikipedia.org
+2620:0:862:ed1a::1 nl.wikipedia.org
+2620:0:862:ed1a::1 nn.wikipedia.org
+2620:0:862:ed1a::1 no.wikipedia.org
+2620:0:862:ed1a::1 nov.wikipedia.org
+2620:0:862:ed1a::1 nrm.wikipedia.org
+2620:0:862:ed1a::1 nv.wikipedia.org
+2620:0:862:ed1a::1 ny.wikipedia.org
+2620:0:862:ed1a::1 oc.wikipedia.org
+2620:0:862:ed1a::1 om.wikipedia.org
+2620:0:862:ed1a::1 or.wikipedia.org
+2620:0:862:ed1a::1 os.wikipedia.org
+2620:0:862:ed1a::1 pa.wikipedia.org
+2620:0:862:ed1a::1 pag.wikipedia.org
+2620:0:862:ed1a::1 pam.wikipedia.org
+2620:0:862:ed1a::1 pap.wikipedia.org
+2620:0:862:ed1a::1 pcd.wikipedia.org
+2620:0:862:ed1a::1 pdc.wikipedia.org
+2620:0:862:ed1a::1 pi.wikipedia.org
+2620:0:862:ed1a::1 pih.wikipedia.org
+2620:0:862:ed1a::1 pl.wikipedia.org
+2620:0:862:ed1a::1 pms.wikipedia.org
+2620:0:862:ed1a::1 pnb.wikipedia.org
+2620:0:862:ed1a::1 pnt.wikipedia.org
+2620:0:862:ed1a::1 ps.wikipedia.org
+2620:0:862:ed1a::1 pt.wikipedia.org
+2620:0:862:ed1a::1 qu.wikipedia.org
+2620:0:862:ed1a::1 rm.wikipedia.org
+2620:0:862:ed1a::1 rmy.wikipedia.org
+2620:0:862:ed1a::1 rn.wikipedia.org
+2620:0:862:ed1a::1 ro.wikipedia.org
+2620:0:862:ed1a::1 roa-rup.wikipedia.org
+2620:0:862:ed1a::1 roa-tara.wikipedia.org
+2620:0:862:ed1a::1 ru.wikipedia.org
+2620:0:862:ed1a::1 rw.wikipedia.org
+2620:0:862:ed1a::1 sa.wikipedia.org
+2620:0:862:ed1a::1 sah.wikipedia.org
+2620:0:862:ed1a::1 sc.wikipedia.org
+2620:0:862:ed1a::1 scn.wikipedia.org
+2620:0:862:ed1a::1 sco.wikipedia.org
+2620:0:862:ed1a::1 sd.wikipedia.org
+2620:0:862:ed1a::1 se.wikipedia.org
+2620:0:862:ed1a::1 sg.wikipedia.org
+2620:0:862:ed1a::1 sh.wikipedia.org
+2620:0:862:ed1a::1 si.wikipedia.org
+2620:0:862:ed1a::1 simple.wikipedia.org
+2620:0:862:ed1a::1 sk.wikipedia.org
+2620:0:862:ed1a::1 sl.wikipedia.org
+2620:0:862:ed1a::1 sm.wikipedia.org
+2620:0:862:ed1a::1 sn.wikipedia.org
+2620:0:862:ed1a::1 so.wikipedia.org
+2620:0:862:ed1a::1 sq.wikipedia.org
+2620:0:862:ed1a::1 sr.wikipedia.org
+2620:0:862:ed1a::1 srn.wikipedia.org
+2620:0:862:ed1a::1 ss.wikipedia.org
+2620:0:862:ed1a::1 st.wikipedia.org
+2620:0:862:ed1a::1 stq.wikipedia.org
+2620:0:862:ed1a::1 su.wikipedia.org
+2620:0:862:ed1a::1 sv.wikipedia.org
+2620:0:862:ed1a::1 sw.wikipedia.org
+2620:0:862:ed1a::1 szl.wikipedia.org
+2620:0:862:ed1a::1 ta.wikipedia.org
+2620:0:862:ed1a::1 te.wikipedia.org
+2620:0:862:ed1a::1 tet.wikipedia.org
+2620:0:862:ed1a::1 tg.wikipedia.org
+2620:0:862:ed1a::1 th.wikipedia.org
+2620:0:862:ed1a::1 ti.wikipedia.org
+2620:0:862:ed1a::1 tk.wikipedia.org
+2620:0:862:ed1a::1 tl.wikipedia.org
+2620:0:862:ed1a::1 tn.wikipedia.org
+2620:0:862:ed1a::1 to.wikipedia.org
+2620:0:862:ed1a::1 tpi.wikipedia.org
+2620:0:862:ed1a::1 tr.wikipedia.org
+2620:0:862:ed1a::1 ts.wikipedia.org
+2620:0:862:ed1a::1 tt.wikipedia.org
+2620:0:862:ed1a::1 tum.wikipedia.org
+2620:0:862:ed1a::1 tw.wikipedia.org
+2620:0:862:ed1a::1 ty.wikipedia.org
+2620:0:862:ed1a::1 udm.wikipedia.org
+2620:0:862:ed1a::1 ug.wikipedia.org
+2620:0:862:ed1a::1 uk.wikipedia.org
+2620:0:862:ed1a::1 ur.wikipedia.org
+2620:0:862:ed1a::1 uz.wikipedia.org
+2620:0:862:ed1a::1 ve.wikipedia.org
+2620:0:862:ed1a::1 vec.wikipedia.org
+2620:0:862:ed1a::1 vi.wikipedia.org
+2620:0:862:ed1a::1 vls.wikipedia.org
+2620:0:862:ed1a::1 vo.wikipedia.org
+2620:0:862:ed1a::1 wa.wikipedia.org
+2620:0:862:ed1a::1 war.wikipedia.org
+2620:0:862:ed1a::1 wo.wikipedia.org
+2620:0:862:ed1a::1 wuu.wikipedia.org
+2620:0:862:ed1a::1 xal.wikipedia.org
+2620:0:862:ed1a::1 xh.wikipedia.org
+2620:0:862:ed1a::1 yi.wikipedia.org
+2620:0:862:ed1a::1 yo.wikipedia.org
+2620:0:862:ed1a::1 za.wikipedia.org
+2620:0:862:ed1a::1 zea.wikipedia.org
+2620:0:862:ed1a::1 zh.wikipedia.org
+2620:0:862:ed1a::1 zh-classical.wikipedia.org
+2620:0:862:ed1a::1 zh-min-nan.wikipedia.org
+2620:0:862:ed1a::1 zh-yue.wikipedia.org
+2620:0:862:ed1a::1 zu.wikipedia.org
 
 2620:0:860:ed1a::1 download.wikipedia.org
 2620:0:860:ed1a::1 mail.wikipedia.org
@@ -2289,10 +2290,10 @@
 
 #其他托管在 Google 的服务
 #BlogSpot 上的其他常用博客 #blogspot.l.google.com
-2404:6800:4005:80a::2001 googlesystem.blogspot.com #Google Operating System
-2404:6800:4005:80a::2001 ipv6-or-no-ipv6.blogspot.com #IPv6 Related Stuff
-2404:6800:4005:80a::2001 gfwrev.blogspot.com #GFW 技术评论
-2404:6800:4005:80a::2001 kamonka.blogspot.com #NHK 纪录片精选
+2404:6800:4005:811::2001 googlesystem.blogspot.com #Google Operating System
+2404:6800:4005:811::2001 ipv6-or-no-ipv6.blogspot.com #IPv6 Related Stuff
+2404:6800:4005:811::2001 gfwrev.blogspot.com #GFW 技术评论
+2404:6800:4005:811::2001 kamonka.blogspot.com #NHK 纪录片精选
 
 #Google Code 上的其他常用项目 #googlecode.l.google.com
 2404:6800:4008:c00::52 ipv6-hosts.googlecode.com
