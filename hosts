@@ -9,7 +9,7 @@
 ##Google.com Google.com
 2404:6800:4005:801::200e google.com
 2404:6800:4008:801::200d accounts.google.com #accounts.l.google.com
-2404:6800:4005:80a::2003 accounts.google.com.hk #accounts-cctld.l.google.com
+2404:6800:4005:810::2003 accounts.google.com.hk #accounts-cctld.l.google.com
 2404:6800:4008:801::200d accounts.l.google.com
 2404:6800:4008:801::200b m.google.com #mobile.l.google.com
 2404:6800:4008:801::200b m.google.com.hk #mobile.l.google.com
@@ -21,13 +21,13 @@
 2404:6800:4005:801::200e goto.google.com #www3.l.google.com
 2404:6800:4005:801::200e jmt0.google.com #www3.l.google.com
 ###2404:6800:4008:c00::d2 wire.l.google.com
-#2404:6800:4008:c00::63 ipv6.google.com #ipv6.l.google.com
+#2404:6800:4005:807::2003 ipv6.google.com #ipv6.l.google.com
 #2404:6800:4008:c00::69 ipv6.google.com #ipv6.l.google.com
-#2404:6800:4008:c00::63 ipv6.google.com.hk #ipv6.google.com
+#2404:6800:4005:807::2003 ipv6.google.com.hk #ipv6.google.com
 #2404:6800:4008:c00::69 ipv6.google.com.hk #ipv6.google.com
-#2404:6800:4008:c00::63 ipv6.google.co.jp #ipv6.google.com
+#2404:6800:4005:807::2003 ipv6.google.co.jp #ipv6.google.com
 #2404:6800:4008:c00::69 ipv6.google.co.jp #ipv6.google.com
-#2404:6800:4008:c00::63 ipv6.l.google.com
+#2404:6800:4005:807::2003 ipv6.l.google.com
 2404:6800:4005:801::200e security.google.com #www3.l.google.com
 2404:6800:4005:801::200e myaccount.google.com #www3.l.google.com
 2404:6800:4005:801::200e aboutme.google.com
@@ -41,7 +41,7 @@
 2404:6800:4003:c00::c7 www.google.com.hk #www.l.google.com
 2404:6800:4008:c00::5b picasaweb.google.com.hk #picasaweb.l.google.com
 2404:6800:4005:808::2003 id.google.com.hk #id.l.google.com
-2404:6800:4005:80b::2003 google.com.hk
+2404:6800:4005:808::2003 google.com.hk
 2404:6800:4005:808::2004 www.googlechinawebmaster.com
 
 ##Google.cn 谷歌中国（启用此地址无法正常使用谷歌音乐）
@@ -56,7 +56,7 @@
 
 ##其他
 2404:6800:4005:809::2003 www.google.ae #www-cctld.l.google.com
-2404:6800:4005:80b::2003 www.google.com.ar #www-cctld.l.google.com
+2404:6800:4005:808::2003 www.google.com.ar #www-cctld.l.google.com
 2404:6800:4005:808::2003 www.google.at #www-cctld.l.google.com
 2404:6800:4005:808::2003 www.google.com.au #www-cctld.l.google.com
 2404:6800:4005:808::2003 www.google.be #www-cctld.l.google.com
@@ -125,6 +125,7 @@
 2404:6800:4008:c01::c0 supl.google.com
 2404:6800:4005:802::200b mobile.google.com #mobile.l.google.com
 2404:6800:4005:807::2004 mobile.google.com.hk #www.google.com
+2404:6800:4005:807::200a realtimesupport.clients6.google.com
 
 #Google Apps 企业应用套件
 2404:6800:4008:803::200e apps.google.com #www3.l.google.com
@@ -407,7 +408,7 @@
 ###2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
 2404:6800:4008:803::200e gmail.google.com #www3.l.google.com
 2404:6800:4005:80e::2005 www.gmail.com #googlemail.l.google.com
-2404:6800:4005:80b::2005 gmail.com
+2404:6800:4005:811::2005 gmail.com
 2404:6800:4005:80e::2005 m.gmail.com #googlemail.l.google.com
 2404:6800:4005:80e::2005 m.googlemail.com #googlemail.l.google.com
 2404:6800:4008:c03::6d pop.gmail.com #gmail-pop.l.google.com #Foxmail 等客户端不支持 ipv6 连接，参阅 Issue 33
@@ -697,6 +698,7 @@
 2404:6800:4005:808::2003 csi.gstatic.com
 2404:6800:4005:808::2003 maps.gstatic.com
 2404:6800:4005:808::2003 ssl.gstatic.com
+2404:6800:4005:807::2003 fonts.gstatic.com
 2404:6800:4005:808::2004 t0.gstatic.com
 2404:6800:4005:808::2004 t1.gstatic.com
 2404:6800:4005:808::2004 t2.gstatic.com
@@ -738,7 +740,7 @@
 2404:6800:4005:80d::200a redirector-bigcache.googleapis.com #googleapis.l.google.com
 2404:6800:4005:80d::200a translate.googleapis.com #googleapis.l.google.com
 2404:6800:4005:80f::200a content.googleapis.com
-2404:6800:4005:802::2010 storage.googleapis.com
+2404:6800:4005:80c::2010 storage.googleapis.com
 ###2404:6800:4008:c00::5f googleapis-ajax.google.com
 ###2404:6800:4008:c00::5f googleapis-ajax.l.google.com
 2404:6800:4005:810::200e mt0.googleapis.com #mt.l.google.com
@@ -1006,7 +1008,7 @@
 2404:6800:4005:80c::200e m.youtube.com
 2404:6800:4005:80c::200e youtu.be
 2404:6800:4008:c00::85 gdata.youtube.com #www4.l.google.com
-2404:6800:400a:804::200e s.youtube.com #video-stats.l.google.com
+2404:6800:4005:80f::200e s.youtube.com #video-stats.l.google.com
 2404:6800:4005:801::200e accounts.youtube.com #www3.l.google.com
 2404:6800:4008:c01::8a video-stats.l.google.com
 2404:6800:4008:c01::71 img.youtube.com #ytimg.l.google.com
@@ -1026,19 +1028,19 @@
 2404:6800:4005:80d::2001 yt3.ggpht.com
 
 #AdWords/AdSense 广告服务
-2404:6800:4008:c03::67 buttons.googlesyndication.com #www.google.com#pagead.l.doubleclick.net
+2404:6800:4005:808::2004 buttons.googlesyndication.com #www.google.com#pagead.l.doubleclick.net
 ###2404:6800:4008:c00::62 afd.l.google.com
 2404:6800:4005:811::2001 tpc.googlesyndication.com #pagead-tpc.l.google.com
 2404:6800:4005:811::2001 pagead-tpc.l.google.com
-2404:6800:4008:c03::70 adwords.google.com
-2404:6800:4008:c03::70 adwords.google.sk #adwords.l.google.com
+2404:6800:4008:c01::65 adwords.google.com
+2404:6800:4008:c01::65 adwords.google.sk #adwords.l.google.com
 2404:6800:4008:803::200e ads.google.com
 #DoubleClick
 2404:6800:4008:c00::95 s0.2mdn.net #s0-2mdn-net.l.google.com
 
 #Analytics 分析
 2404:6800:4008:803::200e www.google-analytics.com #www-google-analytics.l.google.com
-2404:6800:4005:80b::2008 ssl.google-analytics.com #ssl-google-analytics.l.google.com
+2404:6800:4005:80d::2008 ssl.google-analytics.com #ssl-google-analytics.l.google.com
 2404:6800:4008:803::200e *.google-analytics.com
 2404:6800:4008:803::200e service.urchin.com #www-google-analytics.l.google.com
 2404:6800:4008:803::200e www-google-analytics.l.google.com
@@ -1046,6 +1048,7 @@
 2404:6800:4008:803::200e analytics.google.com #www2.l.google.com
 2404:6800:4005:80e::200e marketingplatform.google.com
 2404:6800:4008:803::200e analyticssuitefrontend-pa.clients6.google.com
+2404:6800:4005:809::2008 www.googletagmanager.com
 
 #Android Google 移动操作系统
 2404:6800:4008:803::200e www.android.com #www3.l.google.com
@@ -1083,56 +1086,56 @@
 
 #html5rocks HTML5 推广专题网站
 2404:6800:4005:80e::2013 www.html5rocks.com #ghs.l.google.com
-2404:6800:4008:c00::79 slides.html5rocks.com #ghs.l.google.com
-2404:6800:4008:c00::79 playground.html5rocks.com #ghs.l.google.com
-2404:6800:4008:c00::79 studio.html5rocks.com #ghs.l.google.com
+2404:6800:4005:800::2013 slides.html5rocks.com #ghs.l.google.com
+2404:6800:4005:800::2013 playground.html5rocks.com #ghs.l.google.com
+2404:6800:4005:800::2013 studio.html5rocks.com #ghs.l.google.com
 
 #Google.org Google 公益
-2404:6800:4008:c00::79 blog.google.org #ghs.l.google.com
+2404:6800:4005:800::2013 blog.google.org #ghs.l.google.com
 
 #Panoramio
-2404:6800:4005:80b::2013 www.panoramio.com #appspot.l.google.com
-2404:6800:4005:802::2010 static.panoramio.com #storage.l.googleusercontent.com
-2404:6800:4008:c00::79 blog.panoramio.com #ghs.l.google.com
+2404:6800:4005:80e::2013 www.panoramio.com #appspot.l.google.com
+2404:6800:4005:80c::2010 static.panoramio.com #storage.l.googleusercontent.com
+2404:6800:4005:800::2013 blog.panoramio.com #ghs.l.google.com
 
 #Recaptcha 验证码服务
-2404:6800:4008:c00::63 www.recaptcha.net #www.l.google.com
+2404:6800:4005:807::2003 www.recaptcha.net #www.l.google.com
 2404:6800:4005:80f::2004 api.recaptcha.net #www.l.google.com
 2404:6800:4008:c00::67 api-secure.recaptcha.net #www.l.google.com
 2404:6800:4008:c00::67 mailhide.recaptcha.net #www.l.google.com
 
 #Google Wave Federation Protocol · GWave 协议开源计划
-2404:6800:4008:c00::79 www.waveprotocol.org #ghs.l.google.com
+2404:6800:4005:800::2013 www.waveprotocol.org #ghs.l.google.com
 
 #The WebM Project WebM 开放多媒体项目
 2404:6800:4005:80f::2004 webmproject.org
 2404:6800:4005:801::200e www.webmproject.org #www3.l.google.com
-2404:6800:4008:c00::79 lists.webmproject.org #ghs.l.google.com
-2404:6800:4008:c00::79 blog.webmproject.org #ghs.l.google.com
-2404:6800:4008:c00::79 www.webm-ccl.org #ghs.l.google.com
+2404:6800:4005:800::2013 lists.webmproject.org #ghs.l.google.com
+2404:6800:4005:800::2013 blog.webmproject.org #ghs.l.google.com
+2404:6800:4005:800::2013 www.webm-ccl.org #ghs.l.google.com
 
 #Chrome 相关专题网站
 2404:6800:4008:c00::71 www.chromercise.com #www3.l.google.com
 2404:6800:4005:80c::2013 www.chromeexperiments.com #ghs.l.google.com
-2404:6800:4008:c00::79 www.20thingsilearned.com #ghs.l.google.com
+2404:6800:4005:800::2013 www.20thingsilearned.com #ghs.l.google.com
 
 #IPv6 专题
 2404:6800:4005:801::200e ipv6test.google.com #ipv6test.l.google.com
 2404:6800:4005:801::200e ipv4.google.com #ipv4.l.google.com
-#2404:6800:4008:c00::63 ??????.ds.ipv6test.google.com #四级域名为随机六位数字
-#2404:6800:4008:c00::63 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
-2404:6800:4008:c00::63 ds.ipv6test.l.google.com
+#2404:6800:4005:807::2003 ??????.ds.ipv6test.google.com #四级域名为随机六位数字
+#2404:6800:4005:807::2003 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
+2404:6800:4005:807::2003 ds.ipv6test.l.google.com
 
 #其他专题站
 2404:6800:4005:80f::200e www.data-vocabulary.org #www3.l.google.com
 2404:6800:4005:801::200e www.googleinsidesearch.com #www3.l.google.com
 2404:6800:4005:801::200e www.teachparentstech.org #ghs.l.google.com
 2404:6800:4008:c00::85 www.agoogleaday.com #www4.l.google.com
-2404:6800:4008:c00::79 www.gosetsuden.jp #ghs.l.google.com
-2404:6800:4008:c00::79 www.thegooglepuzzle.com #ghs.l.google.com
-2404:6800:4008:c00::79 www.thegobridgeoglepuzzle.com #ghs.l.google.com
+2404:6800:4005:800::2013 www.gosetsuden.jp #ghs.l.google.com
+2404:6800:4005:800::2013 www.thegooglepuzzle.com #ghs.l.google.com
+2404:6800:4005:800::2013 www.thegobridgeoglepuzzle.com #ghs.l.google.com
 2404:6800:4005:811::200e www.oneworldmanystories.com #www3.l.google.com
-2404:6800:4008:c00::79 www.googlezeitgeist.com #ghs.l.google.com
+2404:6800:4005:800::2013 www.googlezeitgeist.com #ghs.l.google.com
 2404:6800:4005:810::2013 try.dartlang.org #ghs.l.google.com
 2404:6800:4005:807::2013 news.dartlang.org #ghs.l.google.com
 
@@ -1176,6 +1179,7 @@
 2a03:2880:f102:83:face:b00c:0:25de m.v6.facebook.com #移动版
 #2610:d0:face::9 www.lisp6.facebook.com
 #2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+2a03:2880:f102:83:face:b00c:0:25de fbsbx.com
 
 #fbcdn
 2a03:2880:f004:8:face:b00c:0:1 scontent.xx.fbcdn.net
@@ -1301,10 +1305,10 @@
 #telegram
 2001:67c:4e8:1029::439:31 telegram.org
 2001:67c:4e8:1029::439:31 core.telegram.org
-2001:67c:4e8:fa60:3:0:811:139 desktop.telegram.org
-2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
-2001:67c:4e8:fa60:3:0:811:139 translations.telegram.org
-2001:67c:4e8:fa60:3:0:811:139 instantview.telegram.org
+2001:67c:4e8:1029::439:31 desktop.telegram.org
+2001:67c:4e8:1029::439:31 macos.telegram.org
+2001:67c:4e8:1029::439:31 translations.telegram.org
+2001:67c:4e8:1029::439:31 instantview.telegram.org
 
 #Plurk
 2400:cb00:2048:1::6811:4503 plurk.com
@@ -1318,11 +1322,11 @@
 2406:2000:a0:800::1003 px.srvcs.tumblr.com
 
 #instagram
-2406:da00:ff00::3414:336f instagram.com
-2406:da00:ff00::22c1:5470 www.instagram.com
-2406:da00:ff00::22e3:8a5d help.instagram.com
+2406:da00:ff00::22e8:ffce instagram.com
+2406:da00:ff00::35c:6b89 www.instagram.com
+2406:da00:ff00::12d2:8e68 help.instagram.com
 2a03:2880:f004:1:face:b00c:0:1 blog.instagram.com
-2406:da00:ff00::22ee:ce16 graph.instagram.com
+2406:da00:ff00::3d5:e051 graph.instagram.com
 2a03:2880:f21b:c4:face:b00c:0:43fe scontent-ams3-1.cdninstagram.com
 2a03:2880:f206:c4:face:b00c:0:43fe scontent-amt2-1.cdninstagram.com
 2a03:2880:f20a:c4:face:b00c:0:43fe scontent-arn2-1.cdninstagram.com
@@ -2211,7 +2215,7 @@
 2620:0:860:ed1a::1 zu.wiktionary.org
 
 #ARIN
-2001:500:4:c000::44 www.arin.net
+2001:500:4:c000::69 www.arin.net
 2001:500:13::46 whois.arin.net
 
 #Yahoo!
@@ -2252,11 +2256,11 @@
 ##AT 奥地利
 #Tor Project
 2a01:4f9:c010:19eb::1 torproject.org
-2a01:4f8:172:1b46:0:abba:5:1 www.torproject.org
-2001:41b8:202:deb:213:21ff:fe20:1426 deb.torproject.org
+2a01:4f9:c010:19eb::1 www.torproject.org
+2a01:4f9:c010:19eb::1 deb.torproject.org
 2a01:4f8:172:39ca:0:dad3:3:1 trac.torproject.org
-2001:41b8:202:deb:213:21ff:fe20:1426 cloud.torproject.org
-2001:41b8:202:deb:213:21ff:fe20:1426 atlas.torproject.org
+2a01:4f9:c010:19eb::1 cloud.torproject.org
+2a01:4f9:c010:19eb::1 atlas.torproject.org
 2a01:4f8:172:1b46:0:abba:14:1 svn.torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 help.torproject.org
 2620:12a:8001::2 blog.torproject.org
@@ -2308,10 +2312,10 @@
 2404:6800:4008:c00::8d fakegdict.appspot.com #Fake Google Dictionary
 
 # 托管在 Google 上的其他常用域名 #ghs.l.google.com
-2404:6800:4008:c00::79 wdyl.com
-2404:6800:4008:c00::79 www.wdyl.com
-2404:6800:4008:c00::79 blog.twitter.com
-2404:6800:4008:c00::79 www.miraisearch.jp
+2404:6800:4005:800::2013 wdyl.com
+2404:6800:4005:800::2013 www.wdyl.com
+2404:6800:4005:800::2013 blog.twitter.com
+2404:6800:4005:800::2013 www.miraisearch.jp
 
 ### IPv6/IPv4 转换代理
 # 以下地址均非各网站官方地址，属于 TREX-NAT64 网段提供转换代理服务（技术细节）。
